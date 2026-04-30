@@ -9,5 +9,5 @@
 </head>
 <body>
 
-	<h1>Congrats!</h1>
-	<p>This is my first HTML5 document</p>
+	<h1>WELCOME!</h1>
+	<p>This is my first HTML5 document.</p>
