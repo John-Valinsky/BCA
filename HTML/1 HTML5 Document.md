@@ -10,4 +10,4 @@
 <body>
 
 	<h1>Congrats!</h1>
-	<p>This is my first HTML5 document
+	<p>This is my first HTML5 document</p>
