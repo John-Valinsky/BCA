@@ -1,3 +1,4 @@
 # 1 HTML5 Document
 
-<!DOCTYPE 
+<!DOCTYPE html>
+<html lang=
