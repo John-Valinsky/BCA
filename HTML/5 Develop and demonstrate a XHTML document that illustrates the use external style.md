@@ -3,4 +3,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhml">
 <head>
-    <title>XHTML Example
+    <title>XHTML Example</title>
+
+    <!-- External CSS -->
+    
