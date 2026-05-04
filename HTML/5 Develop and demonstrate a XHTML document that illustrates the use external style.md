@@ -42,3 +42,6 @@
             <td>21</td>
             <td>Mumbai</td>
         </tr>
+    </table>
+
+    <!-- Span Example -->
