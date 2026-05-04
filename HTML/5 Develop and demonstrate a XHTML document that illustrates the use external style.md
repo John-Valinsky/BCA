@@ -46,3 +46,5 @@
 
     <!-- Span Example -->
     <p>
+        This is a <span class="highlight">highlighted text</span> using span tag.
+    </p>
