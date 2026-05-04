@@ -8,3 +8,7 @@
     <!-- External CSS -->
     <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
+
+<body>
+
+    <h1>XHTML Demonstration</h1>
