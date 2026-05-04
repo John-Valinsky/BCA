@@ -40,3 +40,5 @@
         <tr>
             <td>Mary</td>
             <td>21</td>
+            <td>Mumbai</td>
+        </tr>
