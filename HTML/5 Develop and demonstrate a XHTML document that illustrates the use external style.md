@@ -33,4 +33,6 @@
 
         <tr>
             <td>John</td>
+            <td>20</td>
+            <td>Delhi</td>
 
