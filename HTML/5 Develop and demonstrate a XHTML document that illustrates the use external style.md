@@ -24,4 +24,6 @@
 
     <!-- Table -->
     <h2>Student Table</h2>
+    <table>
+        <tr>
 
