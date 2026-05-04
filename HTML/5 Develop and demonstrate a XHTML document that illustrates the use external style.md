@@ -6,4 +6,4 @@
     <title>XHTML Example</title>
 
     <!-- External CSS -->
-    
+        <link rel="stylesheet" type="text/css" href="style.css" />
