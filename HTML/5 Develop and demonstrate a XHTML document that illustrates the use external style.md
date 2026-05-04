@@ -26,4 +26,6 @@
     <h2>Student Table</h2>
     <table>
         <tr>
+            <th>Name</th>
+            <th>Age</th>
 
