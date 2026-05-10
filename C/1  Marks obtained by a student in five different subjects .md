@@ -47,5 +47,6 @@ int main() {
 	fclose(fp);
 
 	// Display results
-	pritnf("\n-- Character Count --\n")
+	pritnf("\n-- Character Count --\n");
+	printf("\n-- Alphabets: %d\n", alphabets);
 }
