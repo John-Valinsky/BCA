@@ -51,4 +51,6 @@ int main() {
 	printf("\n-- Alphabets: %d\n", alphabets);
 	printf("Digits: %d\n", digits);
 	printf("Special Characters: %d\n", special);
+
+	return 0;
 }
