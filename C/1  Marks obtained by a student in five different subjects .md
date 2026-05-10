@@ -45,4 +45,7 @@ int main() {
 	}
 
 	fclose(fp);
+
+	// Display results
+	pritnf("\n-- Character Count --\n")
 }
