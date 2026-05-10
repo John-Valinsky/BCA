@@ -49,4 +49,6 @@ int main() {
 	// Display results
 	pritnf("\n-- Character Count --\n");
 	printf("\n-- Alphabets: %d\n", alphabets);
+	printf("Digits: %d\n", digits);
+	printf("Special Characters: %d\n", special);
 }
