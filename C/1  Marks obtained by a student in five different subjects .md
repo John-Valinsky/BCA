@@ -6,5 +6,6 @@
 
 int main() {
 	FILE *fp;
-	
+	char ch;
+	int alphabets = 0, digits = 0, special = 0;
 }
