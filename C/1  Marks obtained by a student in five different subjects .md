@@ -17,5 +17,8 @@ int main() {
 		exit(1);
 	}
 
-	printf("Enter text (Press Ctrl+Z + Enter to stop in Windows):\n")
+	printf("Enter text (Press Ctrl+Z + Enter to stop in Windows):\n");
+
+	// Wrtie input to file
+	
 }
