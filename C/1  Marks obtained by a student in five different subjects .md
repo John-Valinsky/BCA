@@ -43,4 +43,6 @@ int main() {
 		else if (ch != ' ' && ch != '\n' && ch != '\t')
 			special++;
 	}
+
+	fclose(fp);
 }
