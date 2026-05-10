@@ -36,6 +36,7 @@ int main() {
 
 	//Read and count characters
 	while((ch = fget(fp)) != EOF) {
-		
+		if (isalpha(ch))
+			alphabets++;
 	}
 }
