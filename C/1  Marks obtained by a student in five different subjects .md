@@ -31,5 +31,11 @@ int main() {
 	
 	if (fp == NULL) {
 		pritnf("Error opening file! \n");
+		exit(1);
+	}
+
+	//Read and count characters
+	while((ch = fget(fp)) != EOF) {
+		
 	}
 }
