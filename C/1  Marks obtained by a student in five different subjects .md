@@ -20,5 +20,7 @@ int main() {
 	printf("Enter text (Press Ctrl+Z + Enter to stop in Windows):\n");
 
 	// Wrtie input to file
-	
+	while ((ch = getchar()) != EOF) {
+		
+	}
 }
