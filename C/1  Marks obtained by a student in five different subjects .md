@@ -2,4 +2,6 @@
 
 #include<studio.h>
 #include<stdlib.h>
+#include<ctype.h>
+
 	
