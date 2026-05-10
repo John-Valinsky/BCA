@@ -38,5 +38,8 @@ int main() {
 	while((ch = fget(fp)) != EOF) {
 		if (isalpha(ch))
 			alphabets++;
+		else if (isdigit(ch))
+			digits++;
+		else if (ch != ' ' && ch != )
 	}
 }
