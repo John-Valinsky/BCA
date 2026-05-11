@@ -11,5 +11,7 @@ int main() {
 
 	// Convert to Celsius
 	celsius = (fahrenheit - 32) * 5 / 9;
+
+	// Display result
 	
 }
