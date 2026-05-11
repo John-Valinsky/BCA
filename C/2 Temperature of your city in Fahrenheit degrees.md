@@ -10,5 +10,6 @@ int main() {
 	scanf("%f", &fahrenheit);
 
 	// Convert to Celsius
-	celsius = (fahrenheit - 32)
+	celsius = (fahrenheit - 32) * 5 / 9;
+	
 }
