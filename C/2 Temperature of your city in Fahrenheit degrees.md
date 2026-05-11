@@ -8,4 +8,7 @@ int main() {
 	// Input temperature in Fahrenheit
 	printf("Enter temperature in Fahrenheit: ");
 	scanf("%f", &fahrenheit);
+
+	// Convert to Celsius
+	celsius = 
 }
