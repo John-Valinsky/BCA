@@ -3,5 +3,7 @@
 #include <stdio.h>
 
 int main() {
-	float fahrenheit, 
+	float fahrenheit, celsius;
+
+	
 }
