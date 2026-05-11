@@ -10,5 +10,5 @@ int main() {
 	scanf("%f", &fahrenheit);
 
 	// Convert to Celsius
-	celsius = 
+	celsius = (fahrenheit - 32)
 }
