@@ -7,4 +7,5 @@ int main() {
 
 	// Input three numbers
 	printf("Enter three numbers: ");
+	scanf("%d %d %d", &a, &b, &c);
 }
