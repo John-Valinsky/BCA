@@ -23,4 +23,5 @@ int main() {
 			printf("Greatest number = %d\n", c);
 		}
 	}
+	return 0;
 }
