@@ -18,7 +18,7 @@ int main() {
 		}
 	} else {
 		if (b > c) {
-			
+			printf("Greatest number = %d\n");
 		}
 	}
 }
