@@ -13,6 +13,8 @@ int main() {
 	if (a > b) {
 		if (a > c) {
 			printf("Greatest number = %d\n", a);
+		} else {
+			
 		}
 	}
 }
