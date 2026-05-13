@@ -6,5 +6,5 @@ int main() {
 	int a, b, c;
 
 	// Input three numbers
-	
+	printf("Enter three numbers: ");
 }
