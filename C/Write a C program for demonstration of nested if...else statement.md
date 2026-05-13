@@ -11,6 +11,8 @@ int main() {
 
 	// Nested if...else to find the gratest
 	if (a > b) {
-		if ()
+		if (a > c) {
+			printf("Greatest number = %d\n", a);
+		}
 	}
 }
