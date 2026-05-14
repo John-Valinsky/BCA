@@ -12,6 +12,6 @@ int main() {
 
     // Calculate internal marks
     if (attendance >= 95) {
-        
+        marks = 5;
     }
 }
