@@ -33,5 +33,6 @@ int main() {
 
     else {
         marks = 0;
+        printf("Not eligible to appear in examination. \n");
     }
 }
