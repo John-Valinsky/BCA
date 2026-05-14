@@ -1,1 +1,1 @@
-4) 
+4) Percentage of your attendance is input through the keyboard. Write C program to calculate and display internal mark based on percentage of attendance.
