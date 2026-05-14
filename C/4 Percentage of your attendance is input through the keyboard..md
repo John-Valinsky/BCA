@@ -35,4 +35,7 @@ int main() {
         marks = 0;
         printf("Not eligible to appear in examination. \n");
     }
+
+    // Display internal marks
+    printf("Internal Marks = %d\n", marks);
 }
