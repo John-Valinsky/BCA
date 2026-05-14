@@ -20,6 +20,6 @@ int main() {
     }
 
     else if (attendance >= 85) {
-        
+        marks = 3;
     }
 }
