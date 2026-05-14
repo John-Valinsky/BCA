@@ -8,4 +8,5 @@ int main() {
 
     // Input attenance percentage
     printf("Enter attendance percentage: ");
+    scanf("%f", &attendance);
 }
