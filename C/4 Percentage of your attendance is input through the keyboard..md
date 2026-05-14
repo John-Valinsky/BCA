@@ -7,5 +7,5 @@ int main() {
     int marks;
 
     // Input attenance percentage
-    
+    printf("Enter attendance percentage: ");
 }
