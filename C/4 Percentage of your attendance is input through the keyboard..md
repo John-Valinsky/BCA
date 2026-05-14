@@ -26,4 +26,8 @@ int main() {
     else if (attendance >= 80) {
         marks = 2;
     }
+
+    else if (attendance >=75) {
+        
+    }
 }
