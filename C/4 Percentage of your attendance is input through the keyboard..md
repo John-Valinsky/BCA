@@ -11,5 +11,7 @@ int main() {
     scanf("%f", &attendance);
 
     // Calculate internal marks
-    
+    if (attendance >= 95) {
+        
+    }
 }
