@@ -5,5 +5,7 @@
 int main() {
     float attendance;
     int marks;
+
+    // Input attenance percentage
     
 }
