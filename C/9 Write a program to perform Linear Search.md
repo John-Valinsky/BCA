@@ -33,4 +33,6 @@ int main() {
 	} else {
 		printf("Value not found in the array\n");
 	}
+
+	return 0;
 }
