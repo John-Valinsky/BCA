@@ -8,4 +8,7 @@ int main() {
 	// Input number of elements
 	printf("Enter number of elements: ");
 	scanf("%d", &n);
+
+	// Input array elements
+	printf("Enter %d elements:\n", n);
 }
