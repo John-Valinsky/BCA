@@ -5,5 +5,6 @@
 int main() {
 	int arr[100], n, i, key, position = -1;
 
-	//
+	// Input number of elements
+	printf("Enter number of elements: ")
 }
