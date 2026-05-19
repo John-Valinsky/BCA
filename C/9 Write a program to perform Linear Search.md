@@ -18,4 +18,9 @@ int main() {
 	// Input value to search
 	printf("Enter value to search: ");
 	scanf("%d", &key);
+
+	// Linear Search
+	for (i = 0; i < n; i++) {
+		
+	}
 }
