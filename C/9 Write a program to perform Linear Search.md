@@ -21,6 +21,8 @@ int main() {
 
 	// Linear Search
 	for (i = 0; i < n; i++) {
-		
+		if (arr[i] == key) {
+			
+		}
 	}
 }
