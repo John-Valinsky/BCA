@@ -3,5 +3,7 @@
 #include <stdio.h>
 
 int main() {
-	
+	int arr[100], n, i, key, position = -1;
+
+	//
 }
