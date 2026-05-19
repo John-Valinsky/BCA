@@ -27,5 +27,8 @@ int main() {
 		}
 	}
 
-	// Display 
+	// Display result
+	if (position != -1) {
+		
+	}
 }
