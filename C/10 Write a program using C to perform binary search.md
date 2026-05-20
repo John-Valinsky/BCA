@@ -18,5 +18,5 @@ int main() {
 	}
 
 	// Input value to search
-	
+	printf("Enter value to search: ");
 }
