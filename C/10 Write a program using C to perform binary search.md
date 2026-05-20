@@ -19,5 +19,5 @@ int main() {
 
 	// Input value to search
 	printf("Enter value to search: ");
-	scanf("")
+	scanf("%d",&key)
 }
