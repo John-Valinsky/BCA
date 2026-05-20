@@ -29,6 +29,10 @@ int main() {
 
 		if (arr[mid] == key) {
 			position = mid + 1;
+			break;
 		}
+		else if(arr[mid] < key) {
+			
+		} 
 	}
 }
