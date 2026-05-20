@@ -38,4 +38,7 @@ int main() {
 			high = mid - 1;
 		}
 	}
+
+	// Display result
+	if (position !=)
 }
