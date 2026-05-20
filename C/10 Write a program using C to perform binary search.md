@@ -9,4 +9,5 @@ int main() {
 
 	// Input number of elements 
 	printf("Enter number of elements: ");
+	scanf("%d", &n);
 }
