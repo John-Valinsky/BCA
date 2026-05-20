@@ -5,4 +5,5 @@
 int main() {
 	int arr[100], n, i, key;
 	int low = 0, high, mid;
+	int position = -1;
 }
