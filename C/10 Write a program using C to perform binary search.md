@@ -40,5 +40,7 @@ int main() {
 	}
 
 	// Display result
-	if (position !=)
+	if (position != -1) {
+		printf("Value found at position %d\n", position);
+	}
 }
