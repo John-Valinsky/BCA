@@ -27,6 +27,8 @@ int main() {
 	while (low <= high) {
 		mid = (low + high) / 2;
 
-		if (arr[mid] == key)
+		if (arr[mid] == key) {
+			position = mid + 1;
+		}
 	}
 }
