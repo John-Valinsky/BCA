@@ -3,46 +3,48 @@
 #include <stdio.h>
 
 int main() {
-	int arr[100], n, i, key;
-	int low = 0, high, mid;
-	int position = -1;
+    int arr[100], n, i, key;
+    int low = 0, high, mid;
+    int position = -1;
 
-	// Input number of elements 
-	printf("Enter number of elements: ");
-	scanf("%d", &n);
+    // Input number of elements
+    printf("Enter number of elements: ");
+    scanf("%d", &n);
 
-	// Input sorted array elements
-	printf("Enter %d elements in sorted order:\n", n);
-	for (i = 0; i < n; i++) {
-		scanf("%d", &arr[i]);
-	}
+    // Input sorted array elements
+    printf("Enter %d elements in sorted order:\n", n);
+    for (i = 0; i < n; i++) {
+        scanf("%d", &arr[i]);
+    }
 
-	// Input value to search
-	printf("Enter value to search: ");
-	scanf("%d",&key);
+    // Input value to search
+    printf("Enter value to search: ");
+    scanf("%d", &key);
 
-	high = n - 1;
+    high = n - 1;
 
-	//Binary Search
-	while (low <= high) {
-		mid = (low + high) / 2;
+    // Binary Search
+    while (low <= high) {
+        mid = (low + high) / 2;
 
-		if (arr[mid] == key) {
-			position = mid + 1;
-			break;
-		}
-		else if(arr[mid] < key) {
-			low = mid + 1;
-		} 
-		else {
-			high = mid - 1;
-		}
-	}
+        if (arr[mid] == key) {
+            position = mid + 1; // 1-based position
+            break;
+        }
+        else if (arr[mid] < key) {
+            low = mid + 1;
+        }
+        else {
+            high = mid - 1;
+        }
+    }
 
-	// Display result
-	if (position != -1) {
-		printf("Value found at position %d\n", position);
-	} else {
-		printf("Value not found in the array\n");
-	}
+    // Display result
+    if (position != -1) {
+        printf("Value found at position %d\n", position);
+    } else {
+        printf("Value not found in the array\n");
+    }
+
+    return 0;
 }
