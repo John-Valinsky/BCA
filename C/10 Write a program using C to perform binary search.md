@@ -8,5 +8,5 @@ int main() {
 	int position = -1;
 
 	// Input number of elements 
-	
+	printf("Enter number of elements: ");
 }
