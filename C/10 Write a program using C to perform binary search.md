@@ -17,5 +17,6 @@ int main() {
 		scanf("%d", &arr[i]);
 	}
 
-	// Input 
+	// Input value to search
+	
 }
