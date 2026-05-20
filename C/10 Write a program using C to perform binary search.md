@@ -26,5 +26,7 @@ int main() {
 	//Binary Search
 	while (low <= high) {
 		mid = (low + high) / 2;
+
+		if (arr[mid] == key)
 	}
 }
