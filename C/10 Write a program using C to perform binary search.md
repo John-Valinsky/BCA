@@ -43,6 +43,6 @@ int main() {
 	if (position != -1) {
 		printf("Value found at position %d\n", position);
 	} else {
-		printf("")
+		printf("Value not found in the array\n");
 	}
 }
