@@ -21,5 +21,10 @@ int main() {
 	printf("Enter value to search: ");
 	scanf("%d",&key);
 
-	high = n -1;
+	high = n - 1;
+
+	//Binary Search
+	while (low <= high) {
+		
+	}
 }
