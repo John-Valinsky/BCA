@@ -11,5 +11,6 @@ int main() {
 	printf("Enter number of elements: ");
 	scanf("%d", &n);
 
-	// Input sorted array elements 
+	// Input sorted array elements
+	printf("Enter %d elements in sorted order:\n", n)
 }
