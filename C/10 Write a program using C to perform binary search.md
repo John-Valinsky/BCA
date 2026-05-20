@@ -19,5 +19,7 @@ int main() {
 
 	// Input value to search
 	printf("Enter value to search: ");
-	scanf("%d",&key)
+	scanf("%d",&key);
+
+	high = n -1;
 }
