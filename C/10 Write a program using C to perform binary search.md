@@ -32,7 +32,7 @@ int main() {
 			break;
 		}
 		else if(arr[mid] < key) {
-			
+			low = mid + 1;
 		} 
 	}
 }
