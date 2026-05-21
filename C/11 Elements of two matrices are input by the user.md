@@ -14,5 +14,6 @@ int main() {
 	printf("Enter elements of first matrix:\n");
 	for (i = 0; i < rows; i++) {
 		for (j = 0; j < cols; j++);
+			scanf("%d", &a[i][j])
 	}
 }
