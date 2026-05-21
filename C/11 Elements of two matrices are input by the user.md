@@ -45,3 +45,4 @@ int main() {
 
 	// Display Difference Matrix
 	printf("\nSubtraction of matrices:\n");
+	for (i = 0; )
