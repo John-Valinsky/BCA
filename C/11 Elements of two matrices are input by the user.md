@@ -19,4 +19,4 @@ int main() {
 }
 
 	// Input second matrix
-	printf("Enter elements of ")
+	printf("Enter elements of second matrix:\n");
