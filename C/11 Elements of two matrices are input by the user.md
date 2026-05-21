@@ -35,4 +35,5 @@ int main() {
 	}
 
 	// Display Sum Matrix
-	printf("\nAddition of matrices:\n");
+	printf("\nAddition of matrices:\n"); 
+	for (i = 0; )
