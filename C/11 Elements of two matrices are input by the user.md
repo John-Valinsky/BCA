@@ -40,4 +40,5 @@ int main() {
 		for (j = 0; j < cols; j++) {
 			printf("%d ", sum[i][j]);
 		}
+		printf("")
 	}
