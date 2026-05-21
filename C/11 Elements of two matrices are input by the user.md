@@ -29,6 +29,7 @@ int main() {
 	// Addition and Subtraction
 	for (i = 0; i < rows; i++) {
 		for (j = 0; j < cols; j++) {
-			
+			sum[i][j] = a[i][j] + b[i][j];
+			diff[i][j] = a[i][j]
 		}
 	}
