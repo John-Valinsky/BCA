@@ -7,5 +7,6 @@ int main() {
 	int i, j, rows, cols;
 
 	// Input size of matrix
-	printf("Enter number of rows and columns: ")
+	printf("Enter number of rows and columns: ");
+	scanf("%d %d", )
 }
