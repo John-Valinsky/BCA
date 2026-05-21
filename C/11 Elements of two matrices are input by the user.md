@@ -20,4 +20,6 @@ int main() {
 
 	// Input second matrix
 	printf("Enter elements of second matrix:\n");
-	for (j = 0; )
+	for (j = 0; i < rows; i++) {
+		
+	}
