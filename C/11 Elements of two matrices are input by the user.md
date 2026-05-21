@@ -12,4 +12,5 @@ int main() {
 
 	// Input first matrix
 	printf("Enter elements of first matrix:\n");
+	for (i = 0; )
 }
