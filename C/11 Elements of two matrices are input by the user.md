@@ -13,6 +13,6 @@ int main() {
 	// Input first matrix
 	printf("Enter elements of first matrix:\n");
 	for (i = 0; i < rows; i++) {
-		for (j = 0; )
+		for (j = 0; j < cols; j++);
 	}
 }
