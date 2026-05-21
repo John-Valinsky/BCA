@@ -43,4 +43,5 @@ int main() {
 		printf("\n");
 	}
 
-	// Display 
+	// Display Difference Matrix
+	printf("\nSubtraction of matrices:\n");
