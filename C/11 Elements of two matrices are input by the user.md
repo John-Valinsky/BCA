@@ -4,5 +4,8 @@
 
 int main() {
 	int a[10][10], b[10][10], sum [10][10], diff[10][10];
-	int i, j, rows, 
+	int i, j, rows, cols;
+
+	// Input size of matrix
+	
 }
