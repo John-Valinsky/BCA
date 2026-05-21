@@ -12,5 +12,7 @@ int main() {
 
 	// Input first matrix
 	printf("Enter elements of first matrix:\n");
-	for (i = 0; )
+	for (i = 0; i < rows; i++) {
+		
+	}
 }
