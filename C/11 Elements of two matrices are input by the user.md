@@ -36,4 +36,4 @@ int main() {
 
 	// Display Sum Matrix
 	printf("\nAddition of matrices:\n"); 
-	for (i = 0; )
+	for (i = 0; i < rows; )
