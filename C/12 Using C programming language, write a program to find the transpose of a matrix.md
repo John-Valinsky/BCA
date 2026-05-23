@@ -19,4 +19,5 @@ int main() {
     }
 
     // Compute transpose
+    for (i = 0; )
 }
