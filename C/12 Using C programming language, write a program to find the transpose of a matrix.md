@@ -5,4 +5,7 @@
 int main() {
     int a[10][10], transpose[10][10];
     int i, j, rows, cols;
+
+    // Input size of matrix
+    
 }
