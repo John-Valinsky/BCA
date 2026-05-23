@@ -27,5 +27,8 @@ int main() {
 
     // Display original matrix
     printf("\nOriginal Matrix:\n");
+    for (i = 0; i < rows; i++) {
+        
+    }
 
 }
