@@ -17,4 +17,6 @@ int main() {
             scanf("%d", &a[i][j]);
         }
     }
+
+    // Compute transpose
 }
