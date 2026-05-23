@@ -8,4 +8,5 @@ int main() {
 
     // Input size of matrix
     printf("Enter number of rows and columns: ");
+    scanf("%d %d", &rows, &cols);
 }
