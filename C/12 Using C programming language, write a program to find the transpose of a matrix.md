@@ -10,5 +10,6 @@ int main() {
     printf("Enter number of rows and columns: ");
     scanf("%d %d", &rows, &cols);
 
-    // Input matrix 
+    // Input matrix elements
+    pritnf("Enter elements of ")
 }
