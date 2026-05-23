@@ -34,4 +34,7 @@ int main() {
         printf("\n");
     }
 
+    // Display transpose matrix
+    printf("\nTranspose Matrix:\n");
+
 }
