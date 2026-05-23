@@ -26,5 +26,6 @@ int main() {
     }
 
     // Display original matrix
-    printf("")
+    printf("\nOriginal Matrix:\n");
+
 }
