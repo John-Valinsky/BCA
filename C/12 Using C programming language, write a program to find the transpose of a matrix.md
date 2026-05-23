@@ -40,6 +40,7 @@ int main() {
         for (j = 0; j < rows; j++) {
             printf("%d ", transpose[i][j]);
         }
+        printf("\n");
     }
 
 }
