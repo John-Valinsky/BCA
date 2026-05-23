@@ -25,5 +25,6 @@ int main() {
         }
     }
 
-    // Display 
+    // Display original matrix
+    
 }
