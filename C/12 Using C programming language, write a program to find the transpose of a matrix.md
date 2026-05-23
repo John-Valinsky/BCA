@@ -36,5 +36,6 @@ int main() {
 
     // Display transpose matrix
     printf("\nTranspose Matrix:\n");
+    for (i = 0; )
 
 }
