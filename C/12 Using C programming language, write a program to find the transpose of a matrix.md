@@ -31,6 +31,7 @@ int main() {
         for (j = 0; j < cols; j++) {
             printf("%d ", a[i][j]);
         }
+        printf("\n");
     }
 
 }
