@@ -1,6 +1,6 @@
 12) Using C programming language, write a program to find the transpose of a matrix.
 
-#include<stdio.h>
+#include <stdio.h>
 
 int main() {
     int a[10][10], transpose[10][10];
@@ -11,7 +11,7 @@ int main() {
     scanf("%d %d", &rows, &cols);
 
     // Input matrix elements
-    pritnf("Enter elements of the matrix:\n");
+    printf("Enter elements of the matrix:\n");
     for (i = 0; i < rows; i++) {
         for (j = 0; j < cols; j++) {
             scanf("%d", &a[i][j]);
@@ -42,5 +42,6 @@ int main() {
         }
         printf("\n");
     }
+
     return 0;
 }
