@@ -11,5 +11,6 @@ int main() {
     scanf("%d %d", &rows, &cols);
 
     // Input matrix elements
-    pritnf("Enter elements of the matrix: \n");
+    pritnf("Enter elements of the matrix:\n");
+    for (i = 0; i < rows; )
 }
