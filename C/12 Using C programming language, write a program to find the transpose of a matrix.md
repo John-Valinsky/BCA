@@ -19,5 +19,7 @@ int main() {
     }
 
     // Compute transpose
-    for (i = 0; )
+    for (i = 0; i < rows; i++) {
+        
+    }
 }
