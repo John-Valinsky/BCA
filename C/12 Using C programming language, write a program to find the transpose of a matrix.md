@@ -24,4 +24,6 @@ int main() {
             transpose[j][i] = a[i][j];
         }
     }
+
+    // Display 
 }
