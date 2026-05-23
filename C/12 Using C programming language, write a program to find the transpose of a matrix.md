@@ -12,5 +12,9 @@ int main() {
 
     // Input matrix elements
     pritnf("Enter elements of the matrix:\n");
-    for (i = 0; i < rows; )
+    for (i = 0; i < rows; i++) {
+        for (j = 0; j < cols; j++) {
+            scanf("%d", &a[i][j]);
+        }
+    }
 }
