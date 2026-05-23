@@ -21,7 +21,7 @@ int main() {
     // Compute transpose
     for (i = 0; i < rows; i++) {
         for (j = 0; j < cols; j++) {
-            
+            transpose[j][i] = a[i][j];
         }
     }
 }
