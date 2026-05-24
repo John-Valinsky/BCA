@@ -42,4 +42,6 @@ int main() {
             result[i][j] = 0;
         }
     }
+
+    // Matrix multiplicaiton logic
 }
