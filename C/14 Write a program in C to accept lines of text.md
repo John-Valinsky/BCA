@@ -17,6 +17,8 @@ int main() {
             ((str[i] >= 'a' && str[i] <= 'z')) {
                 alphabets++;
             }
-            else if (str[i] >= '0' && str[i] <= )
+            else if (str[i] >= '0' && str[i] <= '9') {
+                
+            }
     }
 }
