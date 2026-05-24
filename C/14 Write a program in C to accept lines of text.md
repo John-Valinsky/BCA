@@ -4,4 +4,6 @@
 
 int main() {
     char str[200];
+    int i = 0;
+    int alphabets = 0;
 }
