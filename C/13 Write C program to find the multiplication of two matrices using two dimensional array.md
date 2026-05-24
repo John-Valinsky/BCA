@@ -12,5 +12,8 @@ int main() {
     scanf("%d %d", &r1, &c1);
 
     printf("Enter rows and columns of second matrix: ");
-    scanf("%d %d", &r2, &c2)
+    scanf("%d %d", &r2, &c2);
+
+    // Check if multiplicaiton is possible
+    
 }
