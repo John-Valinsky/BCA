@@ -54,5 +54,7 @@ int main() {
 
     // Display result matrix
     printf("\nResultant Matrix:\n");
-    for (i = 0; )
+    for (i = 0; i < r1; i++) {
+        for (j)
+    }
 }
