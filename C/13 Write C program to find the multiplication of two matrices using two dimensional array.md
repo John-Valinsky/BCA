@@ -31,6 +31,8 @@ int main() {
     // Input second matrix 
     printf("Enter elements of second matrix:\n");
     for (i = 0; i < r2; i++) {
-        for (j = 0; j <c2; )
+        for (j = 0; j <c2; j++) {
+            scanf("%d", &b[i][j]);
+        }
     }
 }
