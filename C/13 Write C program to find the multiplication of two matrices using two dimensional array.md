@@ -23,6 +23,8 @@ int main() {
     // Input first matrix
     printf("Enter elements of first matrix:\n");
     for (i = 0; i < r1; i++) {
-        
+        for (j = 0; j < c1; j++) {
+            scanf("%d", )
+        }
     }
 }
