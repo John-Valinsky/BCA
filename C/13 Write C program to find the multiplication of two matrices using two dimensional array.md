@@ -17,5 +17,6 @@ int main() {
     // Check if multiplicaiton is possible
     if (c1 != r2) {
         printf("Matrix multiplicaiton not possible!\n");
+        return 0;
     }
 }
