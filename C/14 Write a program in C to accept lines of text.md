@@ -10,4 +10,7 @@ int main() {
     // Input line of text
     printf("Enter a line of text:\n");
     fgets(str, sizeof(str), stdin);
+
+    // Process each character
+    
 }
