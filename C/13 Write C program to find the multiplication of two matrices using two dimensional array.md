@@ -27,4 +27,7 @@ int main() {
             scanf("%d", &a[i][j]);
         }
     }
+
+    // Input second matrix 
+    
 }
