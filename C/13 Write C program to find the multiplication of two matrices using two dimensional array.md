@@ -10,4 +10,6 @@ int main() {
     // Input dimensions
     printf("Enter rows and columns of first matrix: ");
     scanf("%d %d", &r1, &c1);
+
+    printf("Enter rows and columns of second matrix: ")
 }
