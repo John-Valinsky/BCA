@@ -12,5 +12,5 @@ int main() {
     fgets(str, sizeof(str), stdin);
 
     // Process each character
-    
+    while (str[i] != '\0');
 }
