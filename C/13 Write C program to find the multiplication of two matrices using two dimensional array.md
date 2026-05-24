@@ -37,4 +37,7 @@ int main() {
     }
 
     // Initialize result matrix to 0
+    for (i = 0; i < r1; i++) {
+        for ()
+    }
 }
