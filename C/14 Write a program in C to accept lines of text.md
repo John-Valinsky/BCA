@@ -8,5 +8,5 @@ int main() {
     int alphabets = 0; digits = 0; special = 0;
 
     // Input line of text
-    
+    printf("Enter a line of text:\n");
 }
