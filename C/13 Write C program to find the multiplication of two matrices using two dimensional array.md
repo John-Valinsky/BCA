@@ -35,4 +35,6 @@ int main() {
             scanf("%d", &b[i][j]);
         }
     }
+
+    // Initialize result matrix to 0
 }
