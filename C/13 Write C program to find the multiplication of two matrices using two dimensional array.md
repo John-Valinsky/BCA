@@ -46,7 +46,9 @@ int main() {
     // Matrix multiplicaiton logic
     for (i = 0; i < r1; i++) {
         for (j = 0; j < c2; j++) {
-            
+            for (k = 0; k < c1; k++) {
+                
+            }
         }
     }
 }
