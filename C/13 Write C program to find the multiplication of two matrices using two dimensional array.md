@@ -44,4 +44,5 @@ int main() {
     }
 
     // Matrix multiplicaiton logic
+    for (i = 0; )
 }
