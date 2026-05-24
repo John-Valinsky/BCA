@@ -11,5 +11,6 @@ int main() {
     printf("Enter rows and columns of first matrix: ");
     scanf("%d %d", &r1, &c1);
 
-    printf("Enter rows and columns of second matrix: ")
+    printf("Enter rows and columns of second matrix: ");
+    scanf("%d %d", &r2, &c2)
 }
