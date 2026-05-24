@@ -23,5 +23,8 @@ int main() {
             else if (str[i] != ' ' && str[i] != '\n') {
                 special++;
             }
+            i++;
     }
+
+    // Display results
 }
