@@ -15,7 +15,7 @@ int main() {
     while (str[i] != '\0') {
         if ((str[i] >= 'A' && str[i] <= 'Z')) ||
             ((str[i] >= 'a' && str[i] <= 'z')) {
-                
+                alphabets++;
             }
     }
 }
