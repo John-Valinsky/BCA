@@ -20,5 +20,6 @@ int main() {
         return 0;
     }
 
-    // Input 
+    // Input first matrix
+    printf("Enter elements ")
 }
