@@ -8,5 +8,5 @@ int main() {
     int r1, c1, r2, c2;
 
     // Input dimensions
-    printf("")
+    printf("Enter rows and columns of first matrix: ")
 }
