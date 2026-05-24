@@ -53,5 +53,5 @@ int main() {
     }
 
     // Display result matrix
-    
+    printf("\nResultant Matrix:\n");
 }
