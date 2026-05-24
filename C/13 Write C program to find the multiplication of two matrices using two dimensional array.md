@@ -29,5 +29,5 @@ int main() {
     }
 
     // Input second matrix 
-    printf("")
+    printf("Enter elements of second ")
 }
