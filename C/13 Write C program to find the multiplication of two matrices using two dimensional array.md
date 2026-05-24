@@ -15,5 +15,7 @@ int main() {
     scanf("%d %d", &r2, &c2);
 
     // Check if multiplicaiton is possible
-    
+    if (c1 != r2) {
+        
+    }
 }
