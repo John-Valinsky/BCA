@@ -18,7 +18,8 @@ int main() {
                 alphabets++;
             }
             else if (str[i] >= '0' && str[i] <= '9') {
-                
+                digits++;
             }
+            else if
     }
 }
