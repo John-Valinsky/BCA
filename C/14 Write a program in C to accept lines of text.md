@@ -27,5 +27,5 @@ int main() {
     }
 
     // Display results
-    printf("")
+    printf("Alphabets = %d\n", alphabets);
 }
