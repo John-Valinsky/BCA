@@ -58,5 +58,6 @@ int main() {
         for (j = 0; j < c2; j++) {
             printf("%d ", result[i][j]);
         }
+        printf("\n");
     }
 }
