@@ -1,11 +1,11 @@
 14) Write a program in C to accept lines of text and then display the number of alphabets, digits and special characters.
 
-#include<stdio.h>
+#include <stdio.h>
 
 int main() {
     char str[200];
     int i = 0;
-    int alphabets = 0; digits = 0; special = 0;
+    int alphabets = 0, digits = 0, special = 0;
 
     // Input line of text
     printf("Enter a line of text:\n");
@@ -13,21 +13,23 @@ int main() {
 
     // Process each character
     while (str[i] != '\0') {
-        if ((str[i] >= 'A' && str[i] <= 'Z')) ||
-            ((str[i] >= 'a' && str[i] <= 'z')) {
-                alphabets++;
-            }
-            else if (str[i] >= '0' && str[i] <= '9') {
-                digits++;
-            }
-            else if (str[i] != ' ' && str[i] != '\n') {
-                special++;
-            }
-            i++;
+        if ((str[i] >= 'A' && str[i] <= 'Z') || 
+            (str[i] >= 'a' && str[i] <= 'z')) {
+            alphabets++;
+        }
+        else if (str[i] >= '0' && str[i] <= '9') {
+            digits++;
+        }
+        else if (str[i] != ' ' && str[i] != '\n') {
+            special++;
+        }
+        i++;
     }
 
     // Display results
     printf("Alphabets = %d\n", alphabets);
     printf("Digits = %d\n", digits);
-    printf("Special Characters = %d\n", speical);
+    printf("Special Characters = %d\n", special);
+
+    return 0;
 }
