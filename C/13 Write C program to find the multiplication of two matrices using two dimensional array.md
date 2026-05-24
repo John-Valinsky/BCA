@@ -1,6 +1,6 @@
 13) Write C program to find the multiplication of two matrices using two dimensional array.
 
-#include<stido.h>
+#include <stdio.h>
 
 int main() {
     int a[10][10], b[10][10], result[10][10];
@@ -14,9 +14,9 @@ int main() {
     printf("Enter rows and columns of second matrix: ");
     scanf("%d %d", &r2, &c2);
 
-    // Check if multiplicaiton is possible
+    // Check if multiplication is possible
     if (c1 != r2) {
-        printf("Matrix multiplicaiton not possible!\n");
+        printf("Matrix multiplication not possible!\n");
         return 0;
     }
 
@@ -28,10 +28,10 @@ int main() {
         }
     }
 
-    // Input second matrix 
+    // Input second matrix
     printf("Enter elements of second matrix:\n");
     for (i = 0; i < r2; i++) {
-        for (j = 0; j <c2; j++) {
+        for (j = 0; j < c2; j++) {
             scanf("%d", &b[i][j]);
         }
     }
@@ -43,7 +43,7 @@ int main() {
         }
     }
 
-    // Matrix multiplicaiton logic
+    // Matrix multiplication logic
     for (i = 0; i < r1; i++) {
         for (j = 0; j < c2; j++) {
             for (k = 0; k < c1; k++) {
@@ -60,4 +60,6 @@ int main() {
         }
         printf("\n");
     }
+
+    return 0;
 }
