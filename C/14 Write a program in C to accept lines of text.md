@@ -28,4 +28,5 @@ int main() {
 
     // Display results
     printf("Alphabets = %d\n", alphabets);
+    printf("Digits = %d\n", digits);
 }
