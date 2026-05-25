@@ -22,5 +22,6 @@ int main() {
         printf("Factorial not defined for negative number.\n");
     } else {
         result = factorial(num);
+        printf("Factorial of %d = ")
     }
 }
