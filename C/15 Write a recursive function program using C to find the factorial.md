@@ -10,4 +10,6 @@ int factorial (int n) {
         return n * factorial (n -1); //Recursive call
 }
 
-int main 
+int main() {
+    int num, 
+}
