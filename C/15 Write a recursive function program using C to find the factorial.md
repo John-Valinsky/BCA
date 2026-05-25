@@ -13,5 +13,6 @@ int factorial (int n) {
 int main() {
     int num, result;
 
-    // Input 
+    // Input number
+    printf("Enter a number: ");
 }
