@@ -24,4 +24,6 @@ int main() {
         result = factorial(num);
         printf("Factorial of %d = %d\n", num, result);
     }
+
+    return 0;
 }
