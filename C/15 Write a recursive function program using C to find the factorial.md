@@ -17,5 +17,8 @@ int main() {
     printf("Enter a number: ");
     scanf("%d", &num);
 
-    // Check for negative 
+    // Check for negative number
+    if (num < 0) {
+        printf("Factorial not defined ")
+    }
 }
