@@ -11,5 +11,7 @@ int factorial (int n) {
 }
 
 int main() {
-    int num, 
+    int num, result;
+
+    // Input 
 }
