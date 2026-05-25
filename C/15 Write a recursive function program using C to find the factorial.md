@@ -21,6 +21,6 @@ int main() {
     if (num < 0) {
         printf("Factorial not defined for negative number.\n");
     } else {
-        
+        result = factorial(num);
     }
 }
