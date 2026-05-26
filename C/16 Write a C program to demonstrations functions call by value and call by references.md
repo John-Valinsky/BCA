@@ -25,5 +25,6 @@ int main() {
     int a = 10, b = 20;
 
     printf("Before callByValue: a = %d, b = %d\n", a, b);
-    callByValue
+    callByValue(a,b);
+    printf("")
 }
