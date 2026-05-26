@@ -5,5 +5,6 @@
 // Call by Value
 void callByValue(int x, int y) {
     int temp;
+    temp = x;
     
 }
