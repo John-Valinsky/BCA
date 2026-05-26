@@ -3,4 +3,7 @@
 #include<stdio.h>
 
 // Call by Value
-void callByValue(int x, )
+void callByValue(int x, int y) {
+    int temp;
+    
+}
