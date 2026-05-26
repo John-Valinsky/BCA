@@ -9,5 +9,5 @@ void callByValue(int x, int y) {
     x = y;
     y = temp;
 
-    printf("Inside callByValue: ")
+    printf("Inside callByValue: x = %d, y = %d\n",x, y);
 }
