@@ -11,3 +11,5 @@ void callByValue(int x, int y) {
 
     printf("Inside callByValue: x = %d, y = %d\n",x, y);
 }
+
+// Call by Reference
