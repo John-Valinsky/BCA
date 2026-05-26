@@ -22,5 +22,5 @@ void callByReference(int *x, int *y) {
 }
 
 int main() {
-    
+    int a = 10, b = 20;
 }
