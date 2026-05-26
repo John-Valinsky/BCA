@@ -28,5 +28,5 @@ int main() {
     callByValue(a,b);
     printf("After callByValue: a = %d, b = %d\n\n", a, b);
 
-    printf("")
+    printf("Before callByReference: ")
 }
