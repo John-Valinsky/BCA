@@ -16,4 +16,6 @@ void callByValue(int x, int y) {
 void callByReference(int *x, int *y) {
     int temp;
     temp = *x;
+    *x = *y;
+    
 }
