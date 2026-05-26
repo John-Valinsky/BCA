@@ -20,3 +20,7 @@ void callByReference(int *x, int *y) {
     *y = temp;
     printf("Inside callByReference: x = %d, y = %d\n", *x, *y);
 }
+
+int main() {
+    
+}
