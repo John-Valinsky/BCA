@@ -30,4 +30,5 @@ int main() {
 
     printf("Before callByReference: a = %d, b = %d\n", a, b);
     callByReference(&a, &b);
+    printf("After callByReference: ")
 }
