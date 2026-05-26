@@ -24,5 +24,5 @@ void callByReference(int *x, int *y) {
 int main() {
     int a = 10, b = 20;
 
-    printf("Before ")
+    printf("Before callByValue: ")
 }
