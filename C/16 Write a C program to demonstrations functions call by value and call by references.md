@@ -18,5 +18,5 @@ void callByReference(int *x, int *y) {
     temp = *x;
     *x = *y;
     *y = temp;
-    printf("")
+    printf("Inside callByReference: ")
 }
