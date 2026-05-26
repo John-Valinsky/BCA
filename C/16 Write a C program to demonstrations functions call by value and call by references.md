@@ -27,4 +27,6 @@ int main() {
     printf("Before callByValue: a = %d, b = %d\n", a, b);
     callByValue(a,b);
     printf("After callByValue: a = %d, b = %d\n\n", a, b);
+
+    printf("")
 }
