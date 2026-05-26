@@ -8,5 +8,6 @@ void callByValue(int x, int y) {
     temp = x;
     x = y;
     y = temp;
-    
+
+    printf("Inside ")
 }
