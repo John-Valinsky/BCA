@@ -4,5 +4,7 @@
 
 // Function to reverse number
 int reverseNumber(int n) {
-    
+    int rev = 0;
+
+    while ()
 }
