@@ -23,4 +23,6 @@ int main() {
 
     // Function call
     result = reverseNumber(num);
+
+    // Output result
 }
