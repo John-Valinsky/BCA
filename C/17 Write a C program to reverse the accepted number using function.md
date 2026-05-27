@@ -22,5 +22,5 @@ int main() {
     scanf("%d", &num);
 
     // Function call
-    
+    result = reverseNumber(num);
 }
