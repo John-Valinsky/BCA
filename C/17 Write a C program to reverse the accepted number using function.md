@@ -17,5 +17,6 @@ int reverseNumber(int n) {
 int main() {
     int num, result;
 
-    // 
+    // Input number
+    printf("Enter a number: ");
 }
