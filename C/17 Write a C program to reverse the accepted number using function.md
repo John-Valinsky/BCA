@@ -3,3 +3,6 @@
 #include<stdio.h>
 
 // Function to reverse number
+int reverseNumber(int n) {
+    
+}
