@@ -9,5 +9,6 @@ void decimalToBinary(int n) {
 
     if (n == 0) {
         pritnf("Binary = 0\n");
+        return;
     }
 }
