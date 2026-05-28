@@ -1,6 +1,6 @@
 18) Write a C program to convert decimal number to its equivalent binary number using function.
 
-#include<stdio.h>
+#include <stdio.h>
 
 // Function to convert decimal to binary
 void decimalToBinary(int n) {
@@ -8,7 +8,7 @@ void decimalToBinary(int n) {
     int i = 0;
 
     if (n == 0) {
-        pritnf("Binary = 0\n");
+        printf("Binary = 0\n");
         return;
     }
 
@@ -19,9 +19,9 @@ void decimalToBinary(int n) {
         i++;
     }
 
-    // Print is reverse order
+    // Print in reverse order
     printf("Binary = ");
-    for (int j = i - 1; j >=0; j--) {
+    for (int j = i - 1; j >= 0; j--) {
         printf("%d", binary[j]);
     }
     printf("\n");
@@ -37,5 +37,5 @@ int main() {
     // Function call
     decimalToBinary(num);
 
-    return 
+    return 0;
 }
