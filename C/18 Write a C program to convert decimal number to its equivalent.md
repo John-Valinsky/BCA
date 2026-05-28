@@ -36,4 +36,6 @@ int main() {
 
     // Function call
     decimalToBinary(num);
+
+    return 
 }
