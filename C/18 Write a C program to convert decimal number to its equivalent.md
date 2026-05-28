@@ -20,4 +20,5 @@ void decimalToBinary(int n) {
     }
 
     // Print is reverse order
+    printf("Binary = ")
 }
