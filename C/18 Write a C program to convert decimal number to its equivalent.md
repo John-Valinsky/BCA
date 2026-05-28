@@ -7,5 +7,7 @@ void decimalToBinary(int n) {
     int binary[32];
     int i = 0;
 
-    if (n == 0 )
+    if (n == 0) {
+        pritnf("Binary = 0\n");
+    }
 }
