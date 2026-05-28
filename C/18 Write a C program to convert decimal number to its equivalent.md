@@ -4,5 +4,6 @@
 
 // Function to convert decimal to binary
 void decimalToBinary(int n) {
-    
+    int binary[32];
+    int i = 0;
 }
