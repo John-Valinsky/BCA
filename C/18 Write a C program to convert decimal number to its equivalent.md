@@ -30,5 +30,6 @@ void decimalToBinary(int n) {
 int main() {
     int num;
 
-    // Input 
+    // Input decimal number
+    printf("")
 }
