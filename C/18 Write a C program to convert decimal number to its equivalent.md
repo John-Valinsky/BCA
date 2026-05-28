@@ -32,5 +32,5 @@ int main() {
 
     // Input decimal number
     printf("Enter a decimal number: ");
-    scanf("")
+    scanf("%d", &num);
 }
