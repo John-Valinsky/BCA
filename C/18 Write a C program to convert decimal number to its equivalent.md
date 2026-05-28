@@ -26,3 +26,7 @@ void decimalToBinary(int n) {
     }
     printf("\n");
 }
+
+int main() {
+    
+}
