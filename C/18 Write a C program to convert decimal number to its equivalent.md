@@ -21,5 +21,7 @@ void decimalToBinary(int n) {
 
     // Print is reverse order
     printf("Binary = ");
-    for (int j = i - 1; j >=0; j--)
+    for (int j = i - 1; j >=0; j--) {
+        printf("%d", binary[j]);
+    }
 }
