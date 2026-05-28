@@ -1,1 +1,4 @@
 18) Write a C program to convert decimal number to its equivalent binary number using function.
+
+#include<stdio.h>
+    
