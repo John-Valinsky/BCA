@@ -13,5 +13,5 @@ void decimalToBinary(int n) {
     }
 
     // Store binary digits
-    
+    while (n > 0)
 }
