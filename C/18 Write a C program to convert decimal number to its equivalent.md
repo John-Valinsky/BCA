@@ -14,6 +14,7 @@ void decimalToBinary(int n) {
 
     // Store binary digits
     while (n > 0) {
-        binary[i] = n 
+        binary[i] = n % 2;
+        n = n / 2;
     }
 }
