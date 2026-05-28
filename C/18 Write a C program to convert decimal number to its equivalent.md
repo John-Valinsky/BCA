@@ -11,4 +11,7 @@ void decimalToBinary(int n) {
         pritnf("Binary = 0\n");
         return;
     }
+
+    // Store binary digits
+    
 }
