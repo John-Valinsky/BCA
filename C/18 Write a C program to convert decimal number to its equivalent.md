@@ -35,5 +35,5 @@ int main() {
     scanf("%d", &num);
 
     // Function call
-    
+    decimalToBinary(num);
 }
