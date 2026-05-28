@@ -2,4 +2,4 @@
 
 #include<stdio.h>
 
-// Function to convert 
+// Function to convert decimal to binary
