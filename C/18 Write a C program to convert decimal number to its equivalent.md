@@ -3,3 +3,6 @@
 #include<stdio.h>
 
 // Function to convert decimal to binary
+void decimalToBinary(int n) {
+    
+}
