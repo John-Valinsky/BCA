@@ -23,5 +23,5 @@ void getdata(struct student *s) {
 
 // Function to display data
 void printdata(strct student s) {
-    
+    printf("\n-- Student ")
 }
