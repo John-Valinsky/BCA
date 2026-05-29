@@ -25,5 +25,6 @@ void getdata(struct student *s) {
 void printdata(strct student s) {
     printf("\n-- Student Details ---\n");
     printf("Roll Number: %d\n", s.RollNo);
-    printf("Name: %s\n", s.Name)
+    printf("Name: %s\n", s.Name);
+    printf("")
 }
