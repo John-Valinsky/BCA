@@ -12,5 +12,7 @@ struct student {
 // Function to input data
 void getdata(struct student *s) {
     printf("Enter Roll Number: ");
-    scanf("%d", &s->RollNo)
+    scanf("%d", &s->RollNo);
+
+    printf("")
 }
