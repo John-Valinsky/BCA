@@ -10,3 +10,4 @@ struct student {
 };
 
 // Function to input data
+void getdata()
