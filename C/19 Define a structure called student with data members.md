@@ -33,5 +33,5 @@ int main() {
     struct student s1;
 
     // Call functions
-    
+    getdata(&s1);
 }
