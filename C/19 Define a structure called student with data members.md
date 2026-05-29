@@ -6,4 +6,5 @@
 struct student {
     int RollNo;
     char Name[50];
+    float Percentage;
 }
