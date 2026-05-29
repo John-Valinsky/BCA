@@ -15,5 +15,5 @@ void getdata(struct student *s) {
     scanf("%d", &s->RollNo);
 
     printf("Enter Name: ");
-    scanf(" %[^\n]", )
+    scanf(" %[^\n]", s->Name);
 }
