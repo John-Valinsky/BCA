@@ -1,6 +1,6 @@
 19) Define a structure called student with data members RollNo, Name and Percentage. Also write two functions getdata() to input data and printdata() to display the data.
 
-#include<stdio.h>
+#include <stdio.h>
 
 // Define structure
 struct student {
@@ -15,15 +15,15 @@ void getdata(struct student *s) {
     scanf("%d", &s->RollNo);
 
     printf("Enter Name: ");
-    scanf(" %[^\n]", s->Name);
+    scanf(" %[^\n]", s->Name);   // to read full name with spaces
 
     printf("Enter Percentage: ");
     scanf("%f", &s->Percentage);
 }
 
 // Function to display data
-void printdata(strct student s) {
-    printf("\n-- Student Details ---\n");
+void printdata(struct student s) {
+    printf("\n--- Student Details ---\n");
     printf("Roll Number: %d\n", s.RollNo);
     printf("Name: %s\n", s.Name);
     printf("Percentage: %.2f\n", s.Percentage);
@@ -35,4 +35,6 @@ int main() {
     // Call functions
     getdata(&s1);
     printdata(s1);
+
+    return 0;
 }
