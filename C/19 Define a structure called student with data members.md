@@ -26,5 +26,5 @@ void printdata(strct student s) {
     printf("\n-- Student Details ---\n");
     printf("Roll Number: %d\n", s.RollNo);
     printf("Name: %s\n", s.Name);
-    printf("Percentage: %.2f\n", )
+    printf("Percentage: %.2f\n", s.Percentage);
 }
