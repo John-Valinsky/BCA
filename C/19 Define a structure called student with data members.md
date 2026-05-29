@@ -30,5 +30,5 @@ void printdata(strct student s) {
 }
 
 int main() {
-    
+    struct student s1;
 }
