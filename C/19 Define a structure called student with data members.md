@@ -16,4 +16,6 @@ void getdata(struct student *s) {
 
     printf("Enter Name: ");
     scanf(" %[^\n]", s->Name);
+
+    printf("Enter Percentage: ")
 }
