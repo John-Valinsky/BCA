@@ -21,4 +21,7 @@ void getdata(struct student *s) {
     scanf("%f", &s->Percentage);
 }
 
-// Function to display 
+// Function to display data
+void printdata(strct student s) {
+    
+}
