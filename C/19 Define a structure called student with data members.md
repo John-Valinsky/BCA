@@ -34,4 +34,5 @@ int main() {
 
     // Call functions
     getdata(&s1);
+    printdata(s1);
 }
