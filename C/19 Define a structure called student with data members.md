@@ -28,3 +28,7 @@ void printdata(strct student s) {
     printf("Name: %s\n", s.Name);
     printf("Percentage: %.2f\n", s.Percentage);
 }
+
+int main() {
+    
+}
