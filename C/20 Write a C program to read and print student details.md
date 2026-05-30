@@ -31,4 +31,6 @@ int main() {
     printf("Roll Number: %d\n", ptr->rollNo);
     printf("Name: %s\n", ptr->name);
     printf("Percentage: %.2f\n", ptr->percentage);
+
+    return 0;
 }
