@@ -27,5 +27,6 @@ int main() {
     scanf("%f", &ptr->percentage);
 
     // Output using pointer
-    printf("\n--- Student ")
+    printf("\n--- Student Details ---\n");
+    printf("Roll Number: %d\n", ptr->rollNo);
 }
