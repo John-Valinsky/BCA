@@ -11,5 +11,6 @@ struct student {
 
 int main() {
     struct student s1;
+    struct student *ptr;
     
 }
