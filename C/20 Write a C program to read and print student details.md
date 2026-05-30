@@ -1,6 +1,6 @@
 20) Write a C program to read and print student details such as roll number as integer, name as character and percentage as float using structure pointer.
 
-#include<stdio.h>
+#include <stdio.h>
 
 // Define structure
 struct student {
@@ -21,7 +21,7 @@ int main() {
     scanf("%d", &ptr->rollNo);
 
     printf("Enter Name: ");
-    scanf(" %[^\n]", ptr->name);
+    scanf(" %[^\n]", ptr->name);   // allows spaces
 
     printf("Enter Percentage: ");
     scanf("%f", &ptr->percentage);
