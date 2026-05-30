@@ -24,5 +24,7 @@ int main() {
     scanf(" %[^\n]", ptr->name);
 
     printf("Enter Percentage: ");
-    scanf("%f", &ptr-> )
+    scanf("%f", &ptr->percentage);
+
+    // Output using pointer
 }
