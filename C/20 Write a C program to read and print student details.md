@@ -17,5 +17,5 @@ int main() {
     ptr = &s1;
 
     // Input using pointer
-    printf("")
+    printf("Enter Roll Number: ");
 }
