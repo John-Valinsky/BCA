@@ -29,5 +29,5 @@ int main() {
     // Output using pointer
     printf("\n--- Student Details ---\n");
     printf("Roll Number: %d\n", ptr->rollNo);
-    printf("Name: %s\n", )
+    printf("Name: %s\n", ptr->name);
 }
