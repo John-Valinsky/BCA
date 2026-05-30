@@ -24,4 +24,5 @@ int main() {
     scanf(" %[^\n]", ptr->name);
 
     printf("Enter Percentage: ");
+    scanf("%f", )
 }
