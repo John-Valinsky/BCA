@@ -14,5 +14,5 @@ int main() {
     struct student *ptr;
 
     // Assign pointer to structure
-    
+    ptr = &s1;
 }
