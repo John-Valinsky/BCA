@@ -3,3 +3,6 @@
 #include<stdio.h>
 
 // Define structure
+struct student {
+    
+}
