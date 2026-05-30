@@ -10,5 +10,6 @@ struct student {
 };
 
 int main() {
+    struct student s1;
     
 }
