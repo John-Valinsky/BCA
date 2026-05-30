@@ -20,5 +20,5 @@ int main() {
     printf("Enter Roll Number: ");
     scanf("%d", &ptr->rollNo);
 
-    printf("")
+    printf("Enter Name: ")
 }
