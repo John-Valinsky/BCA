@@ -16,5 +16,6 @@ int main() {
     // Assign pointer to structure
     ptr = &s1;
 
-    // Input 
+    // Input using pointer
+    printf("")
 }
