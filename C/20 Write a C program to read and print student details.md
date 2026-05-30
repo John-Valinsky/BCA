@@ -27,5 +27,5 @@ int main() {
     scanf("%f", &ptr->percentage);
 
     // Output using pointer
-    printf("")
+    printf("\n--- Student ")
 }
