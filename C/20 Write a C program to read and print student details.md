@@ -22,4 +22,6 @@ int main() {
 
     printf("Enter Name: ");
     scanf(" %[^\n]", ptr->name);
+
+    printf("")
 }
