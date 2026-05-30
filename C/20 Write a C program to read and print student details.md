@@ -18,4 +18,5 @@ int main() {
 
     // Input using pointer
     printf("Enter Roll Number: ");
+    scanf("%d", )
 }
