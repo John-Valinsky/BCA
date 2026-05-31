@@ -50,6 +50,6 @@ int main() {
     fp = fopen("Student.txt", "r");
 
     if (fp == NULL) {
-        
+        printf("Error opening file!\n");
     }
 }
