@@ -53,4 +53,6 @@ int main() {
         printf("Error opening file!\n");
         exit(1);
     }
+
+    printf("\n--- Student List from ")
 }
