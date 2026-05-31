@@ -35,6 +35,8 @@ int main() {
         scanf("%d", &s.rollNo);
 
         printf("Name: ");
-        scanf(" %[^\n]", s.name)
+        scanf(" %[^\n]", s.name);
+
+        printf("")
     }
 }
