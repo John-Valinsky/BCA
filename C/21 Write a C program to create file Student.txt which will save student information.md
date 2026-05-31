@@ -1,1 +1,1 @@
-21) 
+21) Write a C program to create file "Student.txt" which will save student information such as student roll number, name and total marks for n students and display lists of students on screen by reading from the same file.
