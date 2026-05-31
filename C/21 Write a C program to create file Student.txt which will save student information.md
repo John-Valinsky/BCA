@@ -24,5 +24,5 @@ int main() {
     }
 
     // Input number of students
-    printf("")
+    printf("Enter number of students: ")
 }
