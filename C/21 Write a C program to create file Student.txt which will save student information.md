@@ -19,6 +19,6 @@ int main() {
     fp = fopen ("Student.txt", "w");
 
     if (fp == NULL) {
-        
+        printf("")
     }
 }
