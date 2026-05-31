@@ -47,5 +47,9 @@ int main() {
     fclose(fp);
 
     // Open file in read mode
-    
+    fp = fopen("Student.txt", "r");
+
+    if (fp == NULL) {
+        
+    }
 }
