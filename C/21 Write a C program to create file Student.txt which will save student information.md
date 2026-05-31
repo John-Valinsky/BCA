@@ -16,7 +16,7 @@ int main() {
     int n, i;
 
     // Open file in write mode
-    fp = fopen ("Student.txt", "w");
+    fp = fopen("Student.txt", "w");
 
     if (fp == NULL) {
         printf("Error opening file!\n");
@@ -27,11 +27,11 @@ int main() {
     printf("Enter number of students: ");
     scanf("%d", &n);
 
-    // Write data to file 
+    // Write data to file
     for (i = 0; i < n; i++) {
-        printf("\nEnter details of student %d\n". i + 1);
+        printf("\nEnter details of student %d\n", i + 1);
 
-        printf("Rool No: ");
+        printf("Roll No: ");
         scanf("%d", &s.rollNo);
 
         printf("Name: ");
@@ -40,7 +40,7 @@ int main() {
         printf("Total Marks: ");
         scanf("%f", &s.marks);
 
-        // Wrtie to file 
+        // Write to file
         fprintf(fp, "%d %s %.2f\n", s.rollNo, s.name, s.marks);
     }
 
@@ -60,7 +60,7 @@ int main() {
     while (fscanf(fp, "%d %s %f", &s.rollNo, s.name, &s.marks) != EOF) {
         printf("Roll No: %d\n", s.rollNo);
         printf("Name: %s\n", s.name);
-        printf("Marks: %.2f\n\n\", s.marks);
+        printf("Marks: %.2f\n\n", s.marks);
     }
 
     fclose(fp);
