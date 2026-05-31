@@ -16,5 +16,5 @@ int main() {
     int n, i;
 
     // Open file in write mode
-    
+    fp = fopen ("Student.txt", )
 }
