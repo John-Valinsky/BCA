@@ -22,4 +22,7 @@ int main() {
         printf("Error opening file!\n");
         exit(1);
     }
+
+    // Input number of studetns
+    
 }
