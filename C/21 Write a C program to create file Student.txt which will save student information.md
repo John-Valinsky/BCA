@@ -56,5 +56,6 @@ int main() {
 
     printf("\n--- Student List from File ---\n");
 
-    // Read and display 
+    // Read and display data
+    while (fscanf())
 }
