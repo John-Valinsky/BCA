@@ -28,5 +28,7 @@ int main() {
     scanf("%d", &n);
 
     // Write data to file 
-    for (i = 0; i < n; )
+    for (i = 0; i < n; i++) {
+        printf("\nEnter details of student %d\n". i + 1);
+    }
 }
