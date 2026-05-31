@@ -60,6 +60,6 @@ int main() {
     while (fscanf(fp, "%d %s %f", &s.rollNo, s.name, &s.marks) != EOF) {
         printf("Roll No: %d\n", s.rollNo);
         printf("Name: %s\n", s.name);
-        printf("Marks: %.2f\n\n\")
+        printf("Marks: %.2f\n\n\", s.marks);
     }
 }
