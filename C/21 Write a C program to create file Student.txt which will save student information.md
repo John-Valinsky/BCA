@@ -32,5 +32,6 @@ int main() {
         printf("\nEnter details of student %d\n". i + 1);
 
         printf("Rool No: ");
+        scanf("%d", &s.rollNo);
     }
 }
