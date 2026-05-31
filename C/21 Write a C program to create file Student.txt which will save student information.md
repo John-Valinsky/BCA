@@ -62,4 +62,6 @@ int main() {
         printf("Name: %s\n", s.name);
         printf("Marks: %.2f\n\n\", s.marks);
     }
+
+    fclose(fp);
 }
