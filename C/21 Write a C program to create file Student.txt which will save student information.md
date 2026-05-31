@@ -28,5 +28,5 @@ int main() {
     scanf("%d", &n);
 
     // Write data to file 
-    
+    for (i = 0; i < n; )
 }
