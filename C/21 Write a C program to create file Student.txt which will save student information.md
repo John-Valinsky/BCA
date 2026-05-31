@@ -25,5 +25,8 @@ int main() {
 
     // Input number of students
     printf("Enter number of students: ");
-    scanf("%d", )
+    scanf("%d", &n);
+
+    // Write data to file 
+    
 }
