@@ -5,5 +5,6 @@
 
 // Structure definition
 struct student {
-    
+    int rollNo;
+    char name[50];
 }
