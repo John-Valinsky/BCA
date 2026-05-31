@@ -23,6 +23,6 @@ int main() {
         exit(1);
     }
 
-    // Input number of studetns
-    
+    // Input number of students
+    printf("")
 }
