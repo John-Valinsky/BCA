@@ -4,3 +4,6 @@
 #include <stdlib.h>
 
 // Structure definition
+struct student {
+    
+}
