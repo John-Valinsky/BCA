@@ -30,5 +30,7 @@ int main() {
     // Write data to file 
     for (i = 0; i < n; i++) {
         printf("\nEnter details of student %d\n". i + 1);
+
+        printf("Rool No: ");
     }
 }
