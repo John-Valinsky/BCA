@@ -54,5 +54,7 @@ int main() {
         exit(1);
     }
 
-    printf("\n--- Student List from ")
+    printf("\n--- Student List from File ---\n");
+
+    // Read and display 
 }
