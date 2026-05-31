@@ -41,6 +41,6 @@ int main() {
         scanf("%f", &s.marks);
 
         // Wrtie to file 
-        fprintf(fp, "%d %s %.2f\n", )
+        fprintf(fp, "%d %s %.2f\n", s.rollNo, s.name, )
     }
 }
