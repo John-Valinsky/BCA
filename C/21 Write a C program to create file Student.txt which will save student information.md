@@ -38,6 +38,6 @@ int main() {
         scanf(" %[^\n]", s.name);
 
         printf("Total Marks: ");
-        scanf("%f", )
+        scanf("%f", &s.marks);
     }
 }
