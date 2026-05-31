@@ -39,5 +39,7 @@ int main() {
 
         printf("Total Marks: ");
         scanf("%f", &s.marks);
+
+        // Wrtie to file 
     }
 }
