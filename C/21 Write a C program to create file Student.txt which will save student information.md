@@ -57,5 +57,5 @@ int main() {
     printf("\n--- Student List from File ---\n");
 
     // Read and display data
-    while (fscanf())
+    while (fscanf(fp, "%d %s %f", &s.rollNo, ))
 }
