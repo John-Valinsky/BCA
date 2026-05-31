@@ -20,5 +20,6 @@ int main() {
 
     if (fp == NULL) {
         printf("Error opening file!\n");
+        exit(1);
     }
 }
