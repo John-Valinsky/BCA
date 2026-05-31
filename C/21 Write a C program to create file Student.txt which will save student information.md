@@ -13,5 +13,8 @@ struct student {
 int main() {
     FILE *fp;
     struct student s;
+    int n, i;
+
+    // Open file in write mode
     
 }
