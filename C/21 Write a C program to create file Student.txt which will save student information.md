@@ -33,5 +33,7 @@ int main() {
 
         printf("Rool No: ");
         scanf("%d", &s.rollNo);
+
+        printf("Name: ")
     }
 }
