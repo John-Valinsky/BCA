@@ -37,6 +37,7 @@ int main() {
         printf("Name: ");
         scanf(" %[^\n]", s.name);
 
-        printf("Total Marks: ")
+        printf("Total Marks: ");
+        scanf("")
     }
 }
