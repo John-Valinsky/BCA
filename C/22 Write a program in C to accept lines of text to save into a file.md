@@ -21,6 +21,6 @@ int main() {
 
     // Write input to file
     while ((ch = getchar()) != EOF) {
-        
+        fputc(ch, fp);
     }
 }
