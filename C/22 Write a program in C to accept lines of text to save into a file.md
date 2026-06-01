@@ -35,5 +35,5 @@ int main() {
     }
 
     // Read and count characters
-    
+    while ((ch = fgetc(fp)) != )
 }
