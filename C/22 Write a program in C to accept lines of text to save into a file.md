@@ -6,3 +6,6 @@
 
 int main() {
     FILE *fp;
+    char ch;
+    
+}
