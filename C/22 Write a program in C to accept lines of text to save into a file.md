@@ -16,4 +16,6 @@ int main() {
         printf("Error opening file!\n");
         exit(1);
     }
+
+    printf("Enter text (Press Ctrl+Z + Enter to stop )")
 }
