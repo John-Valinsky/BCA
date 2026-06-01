@@ -48,5 +48,5 @@ int main() {
     fclose(fp);
 
     // Display results
-    
+    printf("\n--- Character Count ---\n");
 }
