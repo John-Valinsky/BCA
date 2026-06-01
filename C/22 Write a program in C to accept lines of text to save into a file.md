@@ -17,5 +17,5 @@ int main() {
         exit(1);
     }
 
-    printf("Enter text (Press Ctrl+Z + Enter to stop )")
+    printf("Enter text (Press Ctrl+Z + Enter to stop in Windows): \n");
 }
