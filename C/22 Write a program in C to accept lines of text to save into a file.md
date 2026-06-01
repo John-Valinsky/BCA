@@ -40,6 +40,6 @@ int main() {
             alphabets++;
         else if (isdigit(ch))
             digits++;
-        else if 
+        else if (ch != ' ')
     }
 }
