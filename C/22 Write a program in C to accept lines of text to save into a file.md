@@ -30,6 +30,6 @@ int main() {
     fp = fopen("text.txt", "r");
 
     if (fp == NULL) {
-        
+        printf("Error opening file!\n");
     }
 }
