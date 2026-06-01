@@ -13,6 +13,7 @@ int main() {
     fp = fopen("text.txt", "w");
 
     if (fp == NULL) {
-        printf("Error opening ")
+        printf("Error opening file!\n");
+        exit(1);
     }
 }
