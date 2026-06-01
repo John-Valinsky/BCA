@@ -4,4 +4,5 @@
 #include <stdlib.h>
 #include <ctype.h>
 
-int main
+int main() {
+    FILE *fp;
