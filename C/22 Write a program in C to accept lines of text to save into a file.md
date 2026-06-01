@@ -40,6 +40,7 @@ int main() {
             alphabets++;
         else if (isdigit(ch))
             digits++;
-        else if (ch != ' ' && ch != '\n' && ch )
+        else if (ch != ' ' && ch != '\n' && ch != '\t')
+            special++;
     }
 }
