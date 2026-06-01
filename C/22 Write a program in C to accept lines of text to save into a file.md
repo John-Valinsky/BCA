@@ -23,4 +23,8 @@ int main() {
     while ((ch = getchar()) != EOF) {
         fputc(ch, fp);
     }
+
+    fclose(fp);
+
+    // Open file 
 }
