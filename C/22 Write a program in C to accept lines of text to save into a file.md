@@ -26,5 +26,6 @@ int main() {
 
     fclose(fp);
 
-    // Open file 
+    // Open file in read mode
+    fp = 
 }
