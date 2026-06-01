@@ -11,4 +11,8 @@ int main() {
 
     // Open file in write mode
     fp = fopen("text.txt", "w");
+
+    if (fp == NULL) {
+        
+    }
 }
