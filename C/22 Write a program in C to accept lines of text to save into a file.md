@@ -17,7 +17,7 @@ int main() {
         exit(1);
     }
 
-    printf("Enter text (Press Ctrl+Z + Enter to stop in Windows): \n");
+    printf("Enter text (Press Ctrl+Z + Enter to stop in Windows):\n");
 
     // Write input to file
     while ((ch = getchar()) != EOF) {
@@ -44,7 +44,6 @@ int main() {
             special++;
     }
 
-
     fclose(fp);
 
     // Display results
@@ -52,4 +51,6 @@ int main() {
     printf("Alphabets: %d\n", alphabets);
     printf("Digits: %d\n", digits);
     printf("Special Characters: %d\n", special);
+
+    return 0;
 }
