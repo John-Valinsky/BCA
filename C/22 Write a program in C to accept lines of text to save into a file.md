@@ -29,5 +29,7 @@ int main() {
     // Open file in read mode
     fp = fopen("text.txt", "r");
 
-    
+    if (fp == NULL) {
+        
+    }
 }
