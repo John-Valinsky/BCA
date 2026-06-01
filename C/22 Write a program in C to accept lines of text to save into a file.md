@@ -9,5 +9,6 @@ int main() {
     char ch;
     int alphabets = 0, digits = 0, special = 0;
 
-    // Open file 
+    // Open file in write mode
+    fp = 
 }
