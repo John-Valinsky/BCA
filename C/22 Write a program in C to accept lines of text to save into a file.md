@@ -10,5 +10,5 @@ int main() {
     int alphabets = 0, digits = 0, special = 0;
 
     // Open file in write mode
-    fp = 
+    fp = fopen("text.txt", "w");
 }
