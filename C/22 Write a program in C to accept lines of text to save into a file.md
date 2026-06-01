@@ -51,4 +51,5 @@ int main() {
     printf("\n--- Character Count ---\n");
     printf("Alphabets: %d\n", alphabets);
     printf("Digits: %d\n", digits);
+    printf("Special Characters: %d\n", special);
 }
