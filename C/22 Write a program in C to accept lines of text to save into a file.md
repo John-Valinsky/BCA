@@ -39,6 +39,7 @@ int main() {
         if (isalpha(ch))
             alphabets++;
         else if (isdigit(ch))
-        
+            digits++;
+        else if 
     }
 }
