@@ -27,5 +27,7 @@ int main() {
     fclose(fp);
 
     // Open file in read mode
-    fp = 
+    fp = fopen("text.txt", "r");
+
+    
 }
