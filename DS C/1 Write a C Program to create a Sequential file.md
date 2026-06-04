@@ -33,5 +33,6 @@ int main() {
 		scanf("%d", &s.rollNo);
 	} while (s.rollNo <= 0);
 
-	printf("")
+	printf("Enter Name: ");
+	scanf(" %[")
 }
