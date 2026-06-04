@@ -58,3 +58,5 @@ int main() {
 
 fclose(fp);
 printf("\nRecords successfully written to file 'students.dat'\n");
+
+return 0;
