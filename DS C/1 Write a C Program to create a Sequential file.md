@@ -44,6 +44,6 @@ int main() {
 
 	do {
 		printf("Enter Marks 2: ");
-		scanf("%d", )
-	}
+		scanf("%d", &s.marks2);
+	} while (s.marks2 < 0);
 }
