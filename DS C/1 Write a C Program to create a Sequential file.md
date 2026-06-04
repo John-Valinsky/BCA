@@ -4,5 +4,6 @@
 #include <stdlib.h>
 
 struct Student {
+	int rollNo;
 	
 }
