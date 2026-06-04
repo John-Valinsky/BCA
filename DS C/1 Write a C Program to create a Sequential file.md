@@ -6,5 +6,6 @@
 struct Student {
 	int rollNo;
 	char name[25];
-	int marks1, marks2, 
-}
+	int marks1, marks2, marks3;
+};
+
