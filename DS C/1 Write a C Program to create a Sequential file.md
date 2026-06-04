@@ -28,5 +28,7 @@ int main() {
 		printf("\nStudent %d\n", i + 1);
 
 	// Input validation for roll number
-	
+	do {
+		printf("Enter Roll No ")
+	}
 }
