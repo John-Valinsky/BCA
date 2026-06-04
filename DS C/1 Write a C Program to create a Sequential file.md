@@ -34,5 +34,5 @@ int main() {
 	} while (s.rollNo <= 0);
 
 	printf("Enter Name: ");
-	scanf(" %[")
+	scanf(" %[^\n]", s.name);
 }
