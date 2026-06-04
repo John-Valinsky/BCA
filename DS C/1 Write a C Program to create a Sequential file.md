@@ -39,6 +39,7 @@ int main() {
 	// Input marks
 	do {
 		printf("Enter Marks 1: ");
-		scanf("%d", )
+		scanf("%d", &s.marks1);
+		
 	}
 }
