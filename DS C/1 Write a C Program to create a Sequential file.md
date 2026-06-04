@@ -44,5 +44,6 @@ int main() {
 
 	do {
 		printf("Enter Marks 2: ");
+		scanf("%d", )
 	}
 }
