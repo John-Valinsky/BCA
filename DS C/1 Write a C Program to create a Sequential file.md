@@ -31,5 +31,5 @@ int main() {
 	do {
 		printf("Enter Roll No (positive integer): ");
 		scanf("%d", &s.rollNo);
-		} 
+	} while (s.rollNo <= 0);
 }
