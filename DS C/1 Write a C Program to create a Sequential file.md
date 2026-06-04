@@ -48,6 +48,6 @@ int main() {
 	} while (s.marks2 < 0);
 
 	do {
-		
+		printf("Enter Marks3: ");
 	}
 }
