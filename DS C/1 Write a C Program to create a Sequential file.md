@@ -49,6 +49,6 @@ int main() {
 
 	do {
 		printf("Enter Marks3: ");
-		scanf("%d", )
+		scanf("%d", &s.marks3);
 	}
 }
