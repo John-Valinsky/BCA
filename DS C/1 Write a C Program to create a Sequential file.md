@@ -22,5 +22,9 @@ int main() {
 		exit(1);
 	}
 
-	printf("Enter details for 4 students:\n");''
+	printf("Enter details for 4 students:\n");
+
+	for (i = 0; i < 4; i++) {
+		
+	}
 }
