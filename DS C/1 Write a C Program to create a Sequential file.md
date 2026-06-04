@@ -51,4 +51,7 @@ int main() {
 		printf("Enter Marks3: ");
 		scanf("%d", &s.marks3);
 	} while (s.marks3 < 0);
+
+	// Write record to file
+	
 }
