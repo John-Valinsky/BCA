@@ -11,4 +11,6 @@ struct Student {
 
 int main() {
 	FILE *fp;
+	struct Student s;
+	
 }
