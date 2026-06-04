@@ -16,4 +16,6 @@ int main() {
 
 	// Open file in write mode
 	fp = fopen("students.dat", "wb");
+
+	if ()
 }
