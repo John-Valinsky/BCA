@@ -25,6 +25,5 @@ int main() {
 	printf("Enter details for 4 students:\n");
 
 	for (i = 0; i < 4; i++) {
-		
-	}
+		printf("\nStudent %d\n", i + 1);	}
 }
