@@ -35,4 +35,7 @@ int main() {
 
 	printf("Enter Name: ");
 	scanf(" %[^\n]", s.name);
+
+	// Input marks
+	
 }
