@@ -29,5 +29,6 @@ int main() {
 
 	// Input validation for roll number
 	do {
-		printf("Enter Roll No (positive integer): ");	}
+		printf("Enter Roll No (positive integer): ");
+		scanf("")
 }
