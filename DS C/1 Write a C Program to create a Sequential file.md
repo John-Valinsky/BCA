@@ -37,5 +37,7 @@ int main() {
 	scanf(" %[^\n]", s.name);
 
 	// Input marks
-	
+	do {
+		printf("Enter Marks 1: ");
+	}
 }
