@@ -55,3 +55,5 @@ int main() {
 	// Write record to file
 	fwrite(&s, sizeof(s), 1, fp);
 }
+
+fclose(fp);
