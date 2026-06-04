@@ -53,5 +53,5 @@ int main() {
 	} while (s.marks3 < 0);
 
 	// Write record to file
-	
+	fwrite(&s, sizeof(s), 1, fp);
 }
