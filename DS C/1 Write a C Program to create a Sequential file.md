@@ -22,5 +22,5 @@ int main() {
 		exit(1);
 	}
 
-	printf("")
+	printf("Enter details for 4 students:\n");''
 }
