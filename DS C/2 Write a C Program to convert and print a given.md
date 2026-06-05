@@ -29,5 +29,5 @@ int main() {
     char infix[MAX], postfix[MAX];
     int i = 0, j = 0;
 
-    
+    printf("Enter a valid parenthesized infix expression: ")
 }
