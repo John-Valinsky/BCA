@@ -19,3 +19,6 @@ char pop() {
 }
 
 // Check precedence
+int precedence(char x) {
+    
+}
