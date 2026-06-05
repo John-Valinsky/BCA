@@ -21,7 +21,7 @@ char pop() {
 // Check precedence
 int precedence(char x) {
     if (x == '+' || x == '-') return 1;
-    if (x == '*'  || x == '/') return 2;
+    if (x == '*' || x == '/') return 2;
     return 0;
 }
 
@@ -33,22 +33,39 @@ int main() {
     scanf("%s", infix);
 
     while (infix[i] != '\0') {
-        // If operand, and to postfix
+        // If operand, add to postfix
         if (isalnum(infix[i])) {
             postfix[j++] = infix[i];
         }
-
         // If '(', push to stack
         else if (infix[i] == '(') {
             push(infix[i]);
         }
-
-        // If ')' pop until '('
+        // If ')', pop until '('
         else if (infix[i] == ')') {
             while (stack[top] != '(') {
                 postfix[j++] = pop();
             }
-            pop(;)
+            pop(); // remove '('
         }
+        // If operator
+        else {
+            while (top != -1 && precedence(stack[top]) >= precedence(infix[i])) {
+                postfix[j++] = pop();
+            }
+            push(infix[i]);
+        }
+        i++;
     }
+
+    // Pop remaining operators
+    while (top != -1) {
+        postfix[j++] = pop();
+    }
+
+    postfix[j] = '\0';
+
+    printf("Postfix Expression: %s\n", postfix);
+
+    return 0;
 }
