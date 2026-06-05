@@ -33,6 +33,7 @@ int main() {
     scanf("%s", infix);
 
     while (infix[i] != '\0') {
+        // If operand, and to postfix
         
     }
 }
