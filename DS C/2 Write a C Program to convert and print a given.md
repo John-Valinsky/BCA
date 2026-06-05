@@ -40,7 +40,7 @@ int main() {
 
         // If '(', push to stack
         else if (infix[i] == '(') {
-            
+            push(infix[i]);
         }
     }
 }
