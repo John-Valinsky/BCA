@@ -20,5 +20,5 @@ char pop() {
 
 // Check precedence
 int precedence(char x) {
-    if (x == '+')
+    if (x == '+' || x == '-') return 1;
 }
