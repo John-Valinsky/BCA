@@ -38,6 +38,9 @@ int main() {
             postfix[j++] = infix[i];
         }
 
-        // If '(', push 
+        // If '(', push to stack
+        else if (infix[i] == '(') {
+            
+        }
     }
 }
