@@ -44,6 +44,8 @@ int main() {
         }
 
         // If ')' pop until '('
-        
+        else if (infix[i] == ')') {
+            
+        }
     }
 }
