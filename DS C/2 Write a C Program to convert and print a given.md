@@ -37,5 +37,7 @@ int main() {
         if (isalnum(infix[i])) {
             postfix[j++] = infix[i];
         }
+
+        // If '(', push 
     }
 }
