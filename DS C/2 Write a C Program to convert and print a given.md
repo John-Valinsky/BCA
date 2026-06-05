@@ -34,6 +34,8 @@ int main() {
 
     while (infix[i] != '\0') {
         // If operand, and to postfix
-        
+        if (isalnum(infix[i])) {
+            
+        }
     }
 }
