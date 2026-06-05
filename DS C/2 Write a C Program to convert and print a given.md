@@ -14,6 +14,6 @@ void push(char x) {
 }
 
 // Pop function
-char pop(){
-    
+char pop() {
+    return 
 }
