@@ -42,5 +42,7 @@ int main() {
         else if (infix[i] == '(') {
             push(infix[i]);
         }
+
+        // If ')' pop 
     }
 }
