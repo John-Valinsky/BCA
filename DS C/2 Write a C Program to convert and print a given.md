@@ -17,3 +17,5 @@ void push(char x) {
 char pop() {
     return stack[top--];
 }
+
+// Check precedence
