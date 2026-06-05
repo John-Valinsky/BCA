@@ -6,3 +6,6 @@
 #define MAX 100
 
 char stack[MAX];
+int top = -1;
+
+// Push function
