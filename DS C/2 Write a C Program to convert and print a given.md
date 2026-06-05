@@ -24,3 +24,5 @@ int precedence(char x) {
     if (x == '*'  || x == '/') return 2;
     return 0;
 }
+
+int main
