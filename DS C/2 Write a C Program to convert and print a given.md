@@ -30,5 +30,7 @@ int main() {
     int i = 0, j = 0;
 
     printf("Enter a valid parenthesized infix expression: ");
-    scanf("%s", )
+    scanf("%s", infix);
+
+    while (infix[i] != )
 }
