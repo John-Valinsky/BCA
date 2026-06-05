@@ -13,4 +13,7 @@ void push(char x) {
     stack[++top] = x;
 }
 
-// Pop 
+// Pop function
+char pop(){
+    
+}
