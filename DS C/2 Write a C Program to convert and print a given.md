@@ -45,7 +45,9 @@ int main() {
 
         // If ')' pop until '('
         else if (infix[i] == ')') {
-            while (stack[top] != )
+            while (stack[top] != '(') {
+                
+            }
         }
     }
 }
