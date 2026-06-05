@@ -27,4 +27,7 @@ int precedence(char x) {
 
 int main() {
     char infix[MAX], postfix[MAX];
+    int i = 0, j = 0;
+
+    
 }
