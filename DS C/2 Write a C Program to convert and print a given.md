@@ -43,6 +43,7 @@ int main() {
             push(infix[i]);
         }
 
-        // If ')' pop 
+        // If ')' pop until '('
+        
     }
 }
