@@ -9,3 +9,6 @@ char stack[MAX];
 int top = -1;
 
 // Push function
+void push(char x) {
+    
+}
