@@ -15,5 +15,5 @@ void push(char x) {
 
 // Pop function
 char pop() {
-    return 
+    return stack[top--];
 }
