@@ -48,6 +48,7 @@ int main() {
             while (stack[top] != '(') {
                 postfix[j++] = pop();
             }
+            pop(;)
         }
     }
 }
