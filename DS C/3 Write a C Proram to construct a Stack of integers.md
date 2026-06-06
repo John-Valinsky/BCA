@@ -16,4 +16,7 @@ void push(int value) {
     }
 }
 
-// Pop 
+// Pop operation
+void pop() {
+    
+}
