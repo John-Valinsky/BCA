@@ -57,7 +57,8 @@ int main() {
                 pop();
                 break;
 
-            
+            case 3:
+                display();
         }
     }
 }
