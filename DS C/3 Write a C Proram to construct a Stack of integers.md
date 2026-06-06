@@ -12,6 +12,8 @@ void push(int value) {
         printf("Stack Overflow! Cannot push %d\n", value);
     } else {
         stack[++top] = value;
-        printf("%d pushed into stack\n");
+        printf("%d pushed into stack\n", value);
     }
 }
+
+// Pop 
