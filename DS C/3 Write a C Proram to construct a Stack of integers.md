@@ -43,6 +43,7 @@ int main() {
     while(1) {
         printf("\n--- Stack Menu ---\n");
         printf("1. Push\n2. Pop\n3. Display\n4. Exit\n");
-        printf("Enter your choice: ")
+        printf("Enter your choice: ");
+        scanf("%d", &choice);
     }
 }
