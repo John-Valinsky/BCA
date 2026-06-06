@@ -8,5 +8,5 @@ int top = -1;
 
 // Push operation
 void push(int value) {
-    
+    if (top == MAX - 1)
 }
