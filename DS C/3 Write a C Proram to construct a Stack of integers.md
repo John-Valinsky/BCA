@@ -51,7 +51,10 @@ int main() {
                 printf("Enter value to push: ");
                 scanf("%d", &value);
                 push(value);
-                breakl
+                break;
+
+            case 2:
+            
         }
     }
 }
