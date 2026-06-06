@@ -32,7 +32,7 @@ void display() {
     } else {
         printf("Stack elements are:\n");
         for (int i = top; i >= 0; i--) {
-            printf("")
+            printf("%d\n", stack[i]);
         }
     }
 }
