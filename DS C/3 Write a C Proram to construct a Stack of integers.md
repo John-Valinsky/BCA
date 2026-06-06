@@ -49,7 +49,8 @@ int main() {
         switch (choice) {
             case 1:
                 printf("Enter value to push: ");
-                scanf("%d", &value)
+                scanf("%d", &value);
+                push(value);
         }
     }
 }
