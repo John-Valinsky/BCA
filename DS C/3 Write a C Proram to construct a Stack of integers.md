@@ -54,6 +54,9 @@ int main() {
                 break;
 
             case 2:
+                pop();
+                break;
+
             
         }
     }
