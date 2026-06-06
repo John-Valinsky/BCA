@@ -24,3 +24,8 @@ void pop() {
         printf("%d popped from stack\n", stack[top--]);
     }
 }
+
+// Display operation
+void display() {
+    
+}
