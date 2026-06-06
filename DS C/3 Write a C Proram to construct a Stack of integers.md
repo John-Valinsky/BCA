@@ -20,5 +20,7 @@ void push(int value) {
 void pop() {
     if (top == -1) {
         printf("Stack Underflow! Stick is empty\n");
+    } else {
+        printf("%d popped from stack\n", )
     }
 }
