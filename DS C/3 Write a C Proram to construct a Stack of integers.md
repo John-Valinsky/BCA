@@ -31,5 +31,6 @@ void display() {
         printf("Stack is empty\n");
     } else {
         printf("Stack elements are:\n");
+        for (int i = top )
     }
 }
