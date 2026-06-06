@@ -18,5 +18,7 @@ void push(int value) {
 
 // Pop operation
 void pop() {
-    
+    if (top == -1) {
+        
+    }
 }
