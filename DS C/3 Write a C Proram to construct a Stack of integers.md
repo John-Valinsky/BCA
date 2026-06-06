@@ -19,6 +19,6 @@ void push(int value) {
 // Pop operation
 void pop() {
     if (top == -1) {
-        printf("Stack ")
+        printf("Stack Underflow! Stick is empty\n");
     }
 }
