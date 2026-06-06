@@ -10,5 +10,7 @@ int top = -1;
 void push(int value) {
     if (top == MAX - 1) {
         printf("Stack Overflow! Cannot push %d\n", value);
+    } else {
+        stack[++top] = value;
     }
 }
