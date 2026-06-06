@@ -7,3 +7,6 @@ int stack[MAX];
 int top = -1;
 
 // Push operation
+void push(int value) {
+    
+}
