@@ -19,7 +19,7 @@ void push(int value) {
 // Pop operation
 void pop() {
     if (top == -1) {
-        printf("Stack Underflow! Stick is empty\n");
+        printf("Stack Underflow! Stack is empty\n");
     } else {
         printf("%d popped from stack\n", stack[top--]);
     }
@@ -40,7 +40,7 @@ void display() {
 int main() {
     int choice, value;
 
-    while(1) {
+    while (1) {
         printf("\n--- Stack Menu ---\n");
         printf("1. Push\n2. Pop\n3. Display\n4. Exit\n");
         printf("Enter your choice: ");
