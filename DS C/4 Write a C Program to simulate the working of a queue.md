@@ -58,6 +58,7 @@ int main() {
 
             case 2:
                 delete();
+                reak;
                 
         }
     }
