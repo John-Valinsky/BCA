@@ -30,6 +30,6 @@ void delete() {
 // Display
 void display() {
     if (front == -1 || front > rear) {
-        
+        printf("Queue is empty\n");
     }
 }
