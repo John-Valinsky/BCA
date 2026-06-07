@@ -59,7 +59,10 @@ int main() {
             case 2:
                 delete();
                 reak;
-                
+
+            case 3:
+                display();
+                break;
         }
     }
 }
