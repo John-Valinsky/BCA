@@ -31,5 +31,8 @@ void delete() {
 void display() {
     if (front == -1 || front > rear) {
         printf("Queue is empty\n");
+    } else {
+        printf("Queue eleemnts are:\n");
+        
     }
 }
