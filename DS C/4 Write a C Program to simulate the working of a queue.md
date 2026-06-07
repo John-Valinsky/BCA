@@ -13,6 +13,7 @@ void insert(int value) {
     } else {
         if (front == -1) 
             front = 0;
-            
+        queue[++rear] = value;
+        
     }
 }
