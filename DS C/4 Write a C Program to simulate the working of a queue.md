@@ -8,5 +8,7 @@ int front = -1, rear = -1;
 
 // Insert (Enqueue)
 void insert(int value) {
-    
+    if (rear == MAX -1) {
+        
+    }
 }
