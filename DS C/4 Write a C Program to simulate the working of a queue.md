@@ -21,6 +21,6 @@ void insert(int value) {
 // Delete (Dequeue)
 void delete() {
     if (front == -1 || front > rear) {
-        
+        printf("Queue Underflow! Queue is empty\n");
     }
 }
