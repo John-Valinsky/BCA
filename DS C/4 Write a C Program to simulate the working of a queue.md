@@ -19,3 +19,6 @@ void insert(int value) {
 }
 
 // Delete (Dequeue)
+void delete() {
+    
+}
