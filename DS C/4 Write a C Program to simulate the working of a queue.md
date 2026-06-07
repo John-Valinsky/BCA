@@ -34,7 +34,7 @@ void display() {
     } else {
         printf("Queue eleemnts are:\n");
         for (int i = front; i <= rear; i++) {
-            
+            printf("%d ", queue[i]);
         }
     }
 }
