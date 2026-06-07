@@ -47,5 +47,10 @@ int main() {
         printf("\n--- Queue Menu ---\n");
         printf("1. Insert\n2.Delete\n3. Display\n4. Exit\n");
         printf("Enter your choice: ");
+        scanf("%d", &choice);
+
+        switch (choice) {
+            
+        }
     }
 }
