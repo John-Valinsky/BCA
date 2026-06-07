@@ -20,5 +20,7 @@ void insert(int value) {
 
 // Delete (Dequeue)
 void delete() {
-    if (front == -1 || )
+    if (front == -1 || front > rear) {
+        
+    }
 }
