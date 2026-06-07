@@ -17,3 +17,5 @@ void insert(int value) {
         printf("%d inserted into queue\n", value);
     }
 }
+
+// Delete (Dequeue)
