@@ -57,7 +57,8 @@ int main() {
                 break;
 
             case 2:
-            
+                delete();
+                
         }
     }
 }
