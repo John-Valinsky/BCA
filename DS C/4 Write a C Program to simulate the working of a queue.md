@@ -10,6 +10,9 @@ int front = -1, rear = -1;
 void insert(int value) {
     if (rear == MAX -1) {
         printf("Queue Overflow! Cannot insert %d\n", value);
-        
+    } else {
+        if (front == -1) 
+            front = 0;
+            
     }
 }
