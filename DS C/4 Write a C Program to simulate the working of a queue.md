@@ -22,5 +22,7 @@ void insert(int value) {
 void delete() {
     if (front == -1 || front > rear) {
         printf("Queue Underflow! Queue is empty\n");
+    } else {
+        printf("%d deleted from queue\n", queue[front++])
     }
 }
