@@ -52,6 +52,7 @@ int main() {
         switch (choice) {
             case 1:
                 printf("Enter value to insert: ");
+                scanf("%d", &value);
         }
     }
 }
