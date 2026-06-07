@@ -45,6 +45,6 @@ int main() {
 
     while(1) {
         printf("\n--- Queue Menu ---\n");
-        printf("")
+        printf("1. Insert\n2.Delete\n3. Display\n4. Exit\n");
     }
 }
