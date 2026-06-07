@@ -58,11 +58,14 @@ int main() {
 
             case 2:
                 delete();
-                reak;
+                break;
 
             case 3:
                 display();
                 break;
+
+            case 4:
+                
         }
     }
 }
