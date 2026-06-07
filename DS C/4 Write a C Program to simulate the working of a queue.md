@@ -33,6 +33,8 @@ void display() {
         printf("Queue is empty\n");
     } else {
         printf("Queue eleemnts are:\n");
-        
+        for (int i = front; i <= rear; i++) {
+            
+        }
     }
 }
