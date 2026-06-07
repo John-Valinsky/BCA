@@ -41,5 +41,9 @@ void display() {
 }
 
 int main() {
-    
+    int choice, value;
+
+    while(1) {
+        
+    }
 }
