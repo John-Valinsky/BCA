@@ -14,6 +14,6 @@ void insert(int value) {
         if (front == -1) 
             front = 0;
         queue[++rear] = value;
-        
+        printf("%d inserted into queue\n", value);
     }
 }
