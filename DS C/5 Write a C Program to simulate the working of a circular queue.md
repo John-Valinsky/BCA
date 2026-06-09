@@ -48,4 +48,7 @@ void display() {
     }
 
     printf("Queue elements are:\n");
+
+    int i = front;
+    
 }
