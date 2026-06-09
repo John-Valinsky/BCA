@@ -41,3 +41,6 @@ void delte() {
 }
 
 // Display
+void display() {
+    
+}
