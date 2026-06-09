@@ -15,5 +15,7 @@ void insert(int value) {
 
     if (front == -1) {
         front = rear = 0;
+    } else {
+        rear = (rear + 1) % MAX;
     }
 }
