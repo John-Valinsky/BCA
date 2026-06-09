@@ -39,3 +39,5 @@ void delte() {
         front = (front + 1) % MAX;
     }
 }
+
+// Display
