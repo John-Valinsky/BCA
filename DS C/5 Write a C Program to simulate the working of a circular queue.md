@@ -18,4 +18,7 @@ void insert(int value) {
     } else {
         rear = (rear + 1) % MAX;
     }
+
+    queue[rear] = value;
+    
 }
