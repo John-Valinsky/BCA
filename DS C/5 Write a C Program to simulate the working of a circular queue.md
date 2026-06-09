@@ -42,5 +42,7 @@ void delte() {
 
 // Display
 void display() {
-    
+    if (front == -1) {
+        
+    }
 }
