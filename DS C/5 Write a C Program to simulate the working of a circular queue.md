@@ -54,5 +54,6 @@ void display() {
         pritnf("%d ", queue[i]);
         if (i == rear)
             break;
+        i = (i + 1) % MAX;
     }
 }
