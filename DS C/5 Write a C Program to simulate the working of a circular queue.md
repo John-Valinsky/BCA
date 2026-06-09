@@ -85,6 +85,9 @@ int main() {
 
             case 4:
                 return 0;
+
+            default:
+                printf("Invalid choice!\n");
         }
     }
 }
