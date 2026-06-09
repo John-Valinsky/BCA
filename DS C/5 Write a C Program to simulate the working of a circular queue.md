@@ -14,6 +14,6 @@ void insert(int value) {
     }
 
     if (front == -1) {
-        
+        front = rear = 0;
     }
 }
