@@ -51,6 +51,6 @@ void display() {
 
     int i = front;
     while(1) {
-        
+        pritnf("%d ", queue[i]);
     }
 }
