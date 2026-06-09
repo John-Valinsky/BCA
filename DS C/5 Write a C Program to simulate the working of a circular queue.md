@@ -65,5 +65,6 @@ int main() {
     while(1) {
         printf("\n--- Circular Queue Menu ---\n");
         printf("1. Insert\n2. Delete\n3. Display\n4. Exit\n");
+        printf("Enter your choice: ");
     }
 }
