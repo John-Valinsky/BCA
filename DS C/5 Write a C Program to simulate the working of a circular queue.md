@@ -8,12 +8,12 @@ int front = -1, rear = -1;
 
 // Insert (Enqueue)
 void insert(int value) {
-    if ((front == 0 && rear == MAX -1) || (rear + 1) % MAX == front)  {
+    if ((front == 0 && rear == MAX - 1) || (rear + 1) % MAX == front) {
         printf("Queue Overflow! Cannot insert %d\n", value);
         return;
     }
 
-    if (front == -1) {
+    if (front == -1) { // First element
         front = rear = 0;
     } else {
         rear = (rear + 1) % MAX;
@@ -24,9 +24,9 @@ void insert(int value) {
 }
 
 // Delete (Dequeue)
-void delte() {
-    if (gront == -1) {
-        printf("Queue Underflow! Queu is empty\n");
+void delete() {
+    if (front == -1) {
+        printf("Queue Underflow! Queue is empty\n");
         return;
     }
 
@@ -50,8 +50,8 @@ void display() {
     printf("Queue elements are:\n");
 
     int i = front;
-    while(1) {
-        pritnf("%d ", queue[i]);
+    while (1) {
+        printf("%d ", queue[i]);
         if (i == rear)
             break;
         i = (i + 1) % MAX;
@@ -62,7 +62,7 @@ void display() {
 int main() {
     int choice, value;
 
-    while(1) {
+    while (1) {
         printf("\n--- Circular Queue Menu ---\n");
         printf("1. Insert\n2. Delete\n3. Display\n4. Exit\n");
         printf("Enter your choice: ");
