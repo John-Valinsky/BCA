@@ -78,7 +78,10 @@ int main() {
             case 2:
                 delete();
                 break;
-                
+
+            case 3:
+                display();
+                break;
         }
     }
 }
