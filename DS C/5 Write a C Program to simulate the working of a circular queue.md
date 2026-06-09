@@ -56,4 +56,5 @@ void display() {
             break;
         i = (i + 1) % MAX;
     }
+    printf("\n");
 }
