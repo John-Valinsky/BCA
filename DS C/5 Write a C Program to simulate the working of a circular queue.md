@@ -72,6 +72,7 @@ int main() {
             case 1:
                 printf("Enter value to insert: ");
                 scanf("%d", &value);
+                insert(value);
         }
     }
 }
