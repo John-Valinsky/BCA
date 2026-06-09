@@ -31,4 +31,8 @@ void delte() {
     }
 
     printf("%d deleted from queue\n", queue[front]);
+
+    if (front == rear) {
+        
+    }
 }
