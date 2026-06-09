@@ -20,5 +20,7 @@ void insert(int value) {
     }
 
     queue[rear] = value;
-    printf("%d inserted into queue\n");
+    printf("%d inserted into queue\n", value);
 }
+
+// 
