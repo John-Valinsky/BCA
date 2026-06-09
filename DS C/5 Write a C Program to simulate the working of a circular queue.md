@@ -24,3 +24,8 @@ void insert(int value) {
 }
 
 // Delete (Dequeue)
+void delte() {
+    if (gront == -1) {
+        
+    }
+}
