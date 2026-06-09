@@ -9,6 +9,6 @@ int front = -1, rear = -1;
 // Insert (Enqueue)
 void insert(int value) {
     if ((front == 0 && rear == MAX -1) || (rear + 1) % MAX == front)  {
-        
+        printf("Queue Overflow! Cannot insert %d\n", value);
     }
 }
