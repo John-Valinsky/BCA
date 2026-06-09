@@ -34,6 +34,6 @@ void delte() {
 
     if (front == rear) {
         // Only one element was present
-        
+        front = rear = -1;
     }
 }
