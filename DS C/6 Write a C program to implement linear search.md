@@ -20,6 +20,8 @@ int main() {
     for (i = 0; i < n; i++) {
         if (arr[i] == key) {
             printf("Element found at position %d\n", i + 1);
+            found = 1;
+            break;
         }
     }
 }
