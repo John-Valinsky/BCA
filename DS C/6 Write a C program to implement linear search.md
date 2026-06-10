@@ -12,4 +12,14 @@ int main() {
     for (i = 0; i < n; i++) {
         scanf("%d", &arr[i]);
     }
+
+    printf("Enter element of search: ");
+    scanf("%d", &key);
+
+    // Linear Search
+    for (i = 0; i < n; i++) {
+        if (arr[i] == key) {
+            printf("Element found at position %d\n", i + 1);
+        }
+    }
 }
