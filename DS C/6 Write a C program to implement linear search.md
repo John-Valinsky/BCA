@@ -6,4 +6,5 @@ int main() {
     int arr[100], n, i, key, found = 0;
 
     printf("Enter number of elements: ");
+    scanf("%d", &n);
 }
