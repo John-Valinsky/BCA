@@ -9,4 +9,7 @@ int main() {
     scanf("%d", &n);
 
     printf("Enter %d elements:\n", n);
+    for (i = 0; i < n; i++) {
+        
+    }
 }
