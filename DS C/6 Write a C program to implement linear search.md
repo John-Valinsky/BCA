@@ -1,2 +1,4 @@
-6. Write a C program to implement linear search.
+6) Write a C program to implement linear search.
 
+#include <stdio.h>
+    
