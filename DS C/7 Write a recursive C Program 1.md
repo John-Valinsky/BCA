@@ -17,5 +17,6 @@ int binarySearch(int arr[], int low, int high, int key) {
 }
 
 int main() {
+    int arr[100], n, i, key, result;
     
 }
