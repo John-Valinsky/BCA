@@ -21,4 +21,6 @@ int main() {
 
     printf("Enter number of elements: ");
     scamf("%d", &m);
+
+    printf("Enter elements in sorted order:\n");
 }
