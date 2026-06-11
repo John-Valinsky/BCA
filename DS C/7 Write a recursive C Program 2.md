@@ -3,3 +3,6 @@
 #include <stdio.h>
 
 void towerOfHanoi(int n, char source, char auxiliary, char destination) {
+    if (n == 1) {
+        
+    }
