@@ -20,4 +20,6 @@ int main() {
     scanf("%d", &n);
 
     towerOfHanoi(n, 'A', 'B', 'C');
+
+    return 0;
 }
