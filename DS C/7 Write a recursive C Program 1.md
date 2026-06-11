@@ -28,5 +28,7 @@ int main() {
     }
 
     printf("Enter element to search: ");
-    scanf("%d", )
+    scanf("%d", &key);
+
+    result = binarySearch(arr, 0, n - 1, key);
 }
