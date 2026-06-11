@@ -3,5 +3,6 @@
 #include <stdio.h>
 
 int binarySearch(int arr[], int low, int high, int key) {
-    
+    if (low > high) 
+        return -1;
 }
