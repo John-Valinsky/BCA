@@ -31,4 +31,7 @@ int main() {
     scanf("%d", &key);
 
     result = binarySearch(arr, 0, n - 1, key);
+
+    if (result != 1)
+        printf("Element found at position %d\n", result + 1);
 }
