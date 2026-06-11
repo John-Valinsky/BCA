@@ -28,4 +28,5 @@ int main() {
     }
 
     printf("Enter element to search: ");
+    scanf("%d", )
 }
