@@ -14,5 +14,7 @@ void towerOfHanoi(int n, char source, char auxiliary, char destination) {
 }
 
 int main() {
-    
+    int n;
+
+    printf("Enter number of disks: ")
 }
