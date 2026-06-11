@@ -23,4 +23,7 @@ int main() {
     scamf("%d", &m);
 
     printf("Enter elements in sorted order:\n");
+    for (i = 0; i < n; i++) {
+        
+    }
 }
