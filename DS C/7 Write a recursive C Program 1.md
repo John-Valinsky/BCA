@@ -12,4 +12,6 @@ int binarySearch(int arr[], int low, int high, int key) {
         return mid;
     else if (key < arr[mid])
         return binarySearch(arr, low, mid -1, key);
+    else
+        return binarySearch(arr, mid + 1, high, key);
 }
