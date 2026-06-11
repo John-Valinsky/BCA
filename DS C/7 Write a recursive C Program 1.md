@@ -20,4 +20,5 @@ int main() {
     int arr[100], n, i, key, result;
 
     printf("Enter number of elements: ");
+    scamf("%d", &m);
 }
