@@ -7,3 +7,5 @@ void towerOfHanoi(int n, char source, char auxiliary, char destination) {
         printf("Move disk 1 from %c to %c\n", source, destination);
         return;
     }
+
+    towerOfHanoi(n - 1, source, destination, auxiliary);
