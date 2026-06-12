@@ -19,4 +19,5 @@ void merge(int arr[], int low, int mid, int high) {
         temp[k++] = arr[i++];
 
     while (j <= high)
-        temp 
+        temp[k++] = arr[j++];
+        
