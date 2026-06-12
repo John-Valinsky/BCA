@@ -20,4 +20,7 @@ void merge(int arr[], int low, int mid, int high) {
 
     while (j <= high)
         temp[k++] = arr[j++];
-        
+
+    // Copy remaining elements
+    while (i <= mid)
+    
