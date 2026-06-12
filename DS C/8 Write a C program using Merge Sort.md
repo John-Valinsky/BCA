@@ -13,3 +13,7 @@ void merge(int arr[], int low, int mid, int high) {
         else
             temp[k++] = arr[j++];    }
 }
+
+    // Copy remaining elements
+    while (i <= mid)
+        temp[k++] = arr[i++];
