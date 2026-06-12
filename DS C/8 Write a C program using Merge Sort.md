@@ -31,3 +31,6 @@ void merge(int arr[], int low, int mid, int high) {
     // Copy back to original array
     for (i = low; i <= high; i++)
         arr[i] = temp[i];
+}
+
+void 
