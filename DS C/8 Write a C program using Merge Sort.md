@@ -11,6 +11,5 @@ void merge(int arr[], int low, int mid, int high) {
         if (arr[i] <= arr[j])
             temp[k++] = arr[i++];
         else
-        
-    }
+            temp[k++] = arr[j++];    }
 }
