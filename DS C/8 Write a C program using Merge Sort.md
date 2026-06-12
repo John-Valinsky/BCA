@@ -29,4 +29,5 @@ void merge(int arr[], int low, int mid, int high) {
         temp[k++] = arr[j++];
 
     // Copy back to original array
-    for (i = low; i <= high )
+    for (i = low; i <= high; i++)
+        arr[i] = temp[i];
