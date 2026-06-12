@@ -8,6 +8,9 @@ void merge(int arr[], int low, int mid, int high) {
 
     // Merge two sorted subarrays
     while (i <= mid && j <= high) {
+        if (arr[i] <= arr[j])
+            temp[k++] = arr[i++];
+        else
         
     }
 }
