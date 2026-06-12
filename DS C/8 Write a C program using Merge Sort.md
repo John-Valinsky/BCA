@@ -7,5 +7,7 @@ void merge(int arr[], int low, int mid, int high) {
     int temp[100];
 
     // Merge two sorted subarrays
-    while 
+    while (i <= mid && j <= high) {
+        
+    }
 }
