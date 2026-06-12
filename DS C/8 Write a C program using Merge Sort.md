@@ -4,4 +4,5 @@
 
 void merge(int arr[], int low, int mid, int high) {
     int i = low, j = mid + 1, k = low;
+    int temp[100];
 }
