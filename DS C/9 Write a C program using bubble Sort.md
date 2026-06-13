@@ -24,4 +24,6 @@ int main() {
             }
         }
     }
+
+    printf("Sorted array:\n");
 }
