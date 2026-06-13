@@ -19,6 +19,7 @@ int main() {
             if (arr[j] > arr[j + 1]) {
                 // Swap
                 temp = arr[j];
+                arr[j] = arr[j + 1];
                 
             }
         }
