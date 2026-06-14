@@ -14,5 +14,7 @@ int main() {
     }
 
     // Insertion Sort
-    for (i = 1; i < n; i++)
+    for (i = 1; i < n; i++) {
+        key = arr[i];
+    }
 }
