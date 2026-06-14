@@ -18,4 +18,6 @@ int main() {
         key = arr[i];
         j = i - 1;
     }
+
+    arr[j + 1] = key;
 }
