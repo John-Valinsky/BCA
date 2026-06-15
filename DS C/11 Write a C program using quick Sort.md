@@ -5,4 +5,6 @@
 // Function of partition the array
 int partition (int arr[], int low, int high) {
     int pivot = arr[high];
+    int i = low -1;
+    
 }
