@@ -9,6 +9,8 @@ int partition (int arr[], int low, int high) {
     int j, temp;
 
     for (j = low, j < high; j++) {
-        
+        if (arr[j] < pivot) {
+            
+        }
     }
 }
