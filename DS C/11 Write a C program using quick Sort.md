@@ -18,4 +18,8 @@ int partition (int arr[], int low, int high) {
             arr[j] = temp;
         }
     }
+
+    // Place pivot in correct position
+    temp = arr[i + 1];
+    
 }
