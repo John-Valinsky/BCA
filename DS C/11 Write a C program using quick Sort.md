@@ -28,4 +28,6 @@ int partition (int arr[], int low, int high) {
 }
 
 // Quick Sort function
-void quickSort(int )
+void quickSort(int arr[], int low, int high) {
+    
+}
