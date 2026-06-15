@@ -10,6 +10,10 @@ int partition (int arr[], int low, int high) {
 
     for (j = low, j < high; j++) {
         if (arr[j] < pivot) {
+            i++;
+
+            // Swap arr[i] and arr[j]
+            temp = arr[i];
             
         }
     }
