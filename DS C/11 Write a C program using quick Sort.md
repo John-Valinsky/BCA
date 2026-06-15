@@ -6,5 +6,9 @@
 int partition (int arr[], int low, int high) {
     int pivot = arr[high];
     int i = low -1;
-    
+    int j, temp;
+
+    for (j = low, j < high; j++) {
+        
+    }
 }
