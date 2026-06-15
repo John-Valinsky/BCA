@@ -51,4 +51,5 @@ int main() {
     quickSort(arr, 0, n - 1);
 
     printf("Sorted array:\n");
+    for (i = 0; i < n; i++)
 }
