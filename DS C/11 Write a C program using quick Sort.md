@@ -41,4 +41,5 @@ int main() {
     int arr[100], n, i;
 
     printf("Enter number of elements: ");
+    scanf("%d", &n);
 }
