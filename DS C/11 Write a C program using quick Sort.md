@@ -39,4 +39,6 @@ void quickSort(int arr[], int low, int high) {
 
 int main() {
     int arr[100], n, i;
+
+    printf("Enter number of elements: ");
 }
