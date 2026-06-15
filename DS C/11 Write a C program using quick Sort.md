@@ -14,6 +14,7 @@ int partition (int arr[], int low, int high) {
 
             // Swap arr[i] and arr[j]
             temp = arr[i];
+            arr[i] = arr[j];
             
         }
     }
