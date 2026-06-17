@@ -4,3 +4,7 @@
 #include <stdlib.h>
 
 // Define node
+struct Node {
+    int data;
+    
+}
