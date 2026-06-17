@@ -12,3 +12,6 @@ struct Node {
 struct Node* head = NULL;
 
 // Insert at beginning
+void insertFirst(int value) {
+    
+}
