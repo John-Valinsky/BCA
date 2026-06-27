@@ -18,4 +18,7 @@ void insertFirst(int value) {
     newNode->data = value;
     newNode->prev = NULL;
     neNode->next = head;
+
+    if (head != NULL)
+    
 }
