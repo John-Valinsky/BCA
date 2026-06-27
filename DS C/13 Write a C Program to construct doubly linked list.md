@@ -17,5 +17,5 @@ void insertFirst(int value) {
     struct Node* newNode = (struct Node*)malloc(sizeof(struct Node));
     newNode->data = value;
     newNode->prev = NULL;
-    
+    neNode->next = head;
 }
