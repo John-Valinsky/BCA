@@ -20,5 +20,6 @@ void insertFirst(int value) {
     neNode->next = head;
 
     if (head != NULL)
-    
+        head->prev = newNode;
+        
 }
