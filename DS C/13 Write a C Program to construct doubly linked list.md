@@ -24,3 +24,5 @@ void insertFirst(int value) {
 
     head = newNode;
 }
+
+// Insert at end
