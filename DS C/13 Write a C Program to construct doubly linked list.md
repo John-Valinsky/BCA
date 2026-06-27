@@ -21,5 +21,7 @@ void insertFirst(int value) {
 
     if (head != NULL)
         head->prev = newNode;
-        
+
+    head = newNode;
+    
 }
