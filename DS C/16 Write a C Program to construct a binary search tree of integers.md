@@ -1,4 +1,4 @@
-16) Write a C Program to construct a binary search tree of integers.
+16) Write a C Program 1. To construct a binary search tree of integers. 2. To traverse the tree using all the methods i.e, inorder, preorder and postorder 3. To display the elements in the tree.
 
 #include <stdio.h>
 #include <stdlib.h>
