@@ -5,5 +5,7 @@
 
 // Define node
 struct Node {
+    int data;
+    struct Node* prev;
     
 }
