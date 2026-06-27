@@ -23,5 +23,4 @@ void insertFirst(int value) {
         head->prev = newNode;
 
     head = newNode;
-    
 }
