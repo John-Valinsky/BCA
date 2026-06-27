@@ -2,4 +2,5 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-    
+
+// Define node
