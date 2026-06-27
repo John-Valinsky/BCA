@@ -26,3 +26,6 @@ void insertFirst(int value) {
 }
 
 // Insert at end
+void insertLast(int value) {
+    
+}
